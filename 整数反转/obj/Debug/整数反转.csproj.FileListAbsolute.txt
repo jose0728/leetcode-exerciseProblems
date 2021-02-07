@@ -1,0 +1,5 @@
+G:\code\算法\整数反转\bin\Debug\整数反转.exe.config
+G:\code\算法\整数反转\bin\Debug\整数反转.exe
+G:\code\算法\整数反转\bin\Debug\整数反转.pdb
+G:\code\算法\整数反转\obj\Debug\整数反转.exe
+G:\code\算法\整数反转\obj\Debug\整数反转.pdb

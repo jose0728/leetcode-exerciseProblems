@@ -1,0 +1,5 @@
+G:\code\算法\滑动窗口-和为s的连续正数序列\bin\Debug\滑动窗口-和为s的连续正数序列.exe.config
+G:\code\算法\滑动窗口-和为s的连续正数序列\bin\Debug\滑动窗口-和为s的连续正数序列.exe
+G:\code\算法\滑动窗口-和为s的连续正数序列\bin\Debug\滑动窗口-和为s的连续正数序列.pdb
+G:\code\算法\滑动窗口-和为s的连续正数序列\obj\Debug\滑动窗口-和为s的连续正数序列.exe
+G:\code\算法\滑动窗口-和为s的连续正数序列\obj\Debug\滑动窗口-和为s的连续正数序列.pdb

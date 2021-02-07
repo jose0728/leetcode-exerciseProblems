@@ -1,0 +1,5 @@
+G:\code\算法\283-移动0\bin\Debug\283-移动0.exe.config
+G:\code\算法\283-移动0\bin\Debug\283-移动0.exe
+G:\code\算法\283-移动0\bin\Debug\283-移动0.pdb
+G:\code\算法\283-移动0\obj\Debug\283-移动0.exe
+G:\code\算法\283-移动0\obj\Debug\283-移动0.pdb

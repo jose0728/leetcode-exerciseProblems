@@ -1,0 +1,5 @@
+G:\code\算法\78-子集\bin\Debug\78-子集.exe.config
+G:\code\算法\78-子集\bin\Debug\78-子集.exe
+G:\code\算法\78-子集\bin\Debug\78-子集.pdb
+G:\code\算法\78-子集\obj\Debug\78-子集.exe
+G:\code\算法\78-子集\obj\Debug\78-子集.pdb

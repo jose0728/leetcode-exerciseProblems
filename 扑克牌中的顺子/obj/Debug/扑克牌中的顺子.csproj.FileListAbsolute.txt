@@ -1,0 +1,5 @@
+G:\code\算法\扑克牌中的顺子\bin\Debug\扑克牌中的顺子.exe.config
+G:\code\算法\扑克牌中的顺子\bin\Debug\扑克牌中的顺子.exe
+G:\code\算法\扑克牌中的顺子\bin\Debug\扑克牌中的顺子.pdb
+G:\code\算法\扑克牌中的顺子\obj\Debug\扑克牌中的顺子.exe
+G:\code\算法\扑克牌中的顺子\obj\Debug\扑克牌中的顺子.pdb

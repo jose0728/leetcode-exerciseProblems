@@ -1,0 +1,5 @@
+G:\code\算法\二分法\bin\Debug\二分法.exe.config
+G:\code\算法\二分法\bin\Debug\二分法.exe
+G:\code\算法\二分法\bin\Debug\二分法.pdb
+G:\code\算法\二分法\obj\Debug\二分法.exe
+G:\code\算法\二分法\obj\Debug\二分法.pdb

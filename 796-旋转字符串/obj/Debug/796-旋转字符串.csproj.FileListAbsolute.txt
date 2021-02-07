@@ -1,0 +1,5 @@
+G:\code\算法\796-旋转字符串\bin\Debug\796-旋转字符串.exe.config
+G:\code\算法\796-旋转字符串\bin\Debug\796-旋转字符串.exe
+G:\code\算法\796-旋转字符串\bin\Debug\796-旋转字符串.pdb
+G:\code\算法\796-旋转字符串\obj\Debug\796-旋转字符串.exe
+G:\code\算法\796-旋转字符串\obj\Debug\796-旋转字符串.pdb

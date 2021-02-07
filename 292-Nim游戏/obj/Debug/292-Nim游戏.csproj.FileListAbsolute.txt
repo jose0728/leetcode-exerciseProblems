@@ -1,0 +1,5 @@
+G:\code\算法\292-Nim游戏\bin\Debug\292-Nim游戏.exe.config
+G:\code\算法\292-Nim游戏\bin\Debug\292-Nim游戏.exe
+G:\code\算法\292-Nim游戏\bin\Debug\292-Nim游戏.pdb
+G:\code\算法\292-Nim游戏\obj\Debug\292-Nim游戏.exe
+G:\code\算法\292-Nim游戏\obj\Debug\292-Nim游戏.pdb

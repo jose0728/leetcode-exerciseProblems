@@ -1,0 +1,6 @@
+G:\code\算法\回文数\bin\Debug\回文数.exe.config
+G:\code\算法\回文数\bin\Debug\回文数.exe
+G:\code\算法\回文数\bin\Debug\回文数.pdb
+G:\code\算法\回文数\obj\Debug\回文数.exe
+G:\code\算法\回文数\obj\Debug\回文数.pdb
+G:\code\算法\回文数\obj\Debug\回文数.csprojAssemblyReference.cache

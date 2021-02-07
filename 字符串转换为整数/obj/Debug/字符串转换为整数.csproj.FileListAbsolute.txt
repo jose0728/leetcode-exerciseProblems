@@ -1,0 +1,5 @@
+G:\code\算法\字符串转换为整数\bin\Debug\字符串转换为整数.exe.config
+G:\code\算法\字符串转换为整数\bin\Debug\字符串转换为整数.exe
+G:\code\算法\字符串转换为整数\bin\Debug\字符串转换为整数.pdb
+G:\code\算法\字符串转换为整数\obj\Debug\字符串转换为整数.exe
+G:\code\算法\字符串转换为整数\obj\Debug\字符串转换为整数.pdb

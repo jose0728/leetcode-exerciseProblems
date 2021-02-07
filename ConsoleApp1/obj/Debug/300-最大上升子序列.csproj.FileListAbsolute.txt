@@ -1,0 +1,5 @@
+G:\code\算法\ConsoleApp1\bin\Debug\300-最大上升子序列.exe.config
+G:\code\算法\ConsoleApp1\bin\Debug\300-最大上升子序列.exe
+G:\code\算法\ConsoleApp1\bin\Debug\300-最大上升子序列.pdb
+G:\code\算法\ConsoleApp1\obj\Debug\300-最大上升子序列.exe
+G:\code\算法\ConsoleApp1\obj\Debug\300-最大上升子序列.pdb

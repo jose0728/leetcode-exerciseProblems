@@ -1,0 +1,5 @@
+G:\code\算法\299-猜数字游戏\bin\Debug\299-猜数字游戏.exe.config
+G:\code\算法\299-猜数字游戏\bin\Debug\299-猜数字游戏.exe
+G:\code\算法\299-猜数字游戏\bin\Debug\299-猜数字游戏.pdb
+G:\code\算法\299-猜数字游戏\obj\Debug\299-猜数字游戏.exe
+G:\code\算法\299-猜数字游戏\obj\Debug\299-猜数字游戏.pdb

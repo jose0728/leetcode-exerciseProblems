@@ -1,0 +1,6 @@
+G:\code\算法\48-旋转图像\bin\Debug\48-旋转图像.exe.config
+G:\code\算法\48-旋转图像\bin\Debug\48-旋转图像.exe
+G:\code\算法\48-旋转图像\bin\Debug\48-旋转图像.pdb
+G:\code\算法\48-旋转图像\obj\Debug\48-旋转图像.exe
+G:\code\算法\48-旋转图像\obj\Debug\48-旋转图像.pdb
+G:\code\算法\48-旋转图像\obj\Debug\48-旋转图像.csprojAssemblyReference.cache

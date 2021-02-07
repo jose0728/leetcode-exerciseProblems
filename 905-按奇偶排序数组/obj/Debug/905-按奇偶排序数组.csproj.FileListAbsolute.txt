@@ -1,0 +1,5 @@
+G:\code\算法\905-按奇偶排序数组\bin\Debug\905-按奇偶排序数组.exe.config
+G:\code\算法\905-按奇偶排序数组\bin\Debug\905-按奇偶排序数组.exe
+G:\code\算法\905-按奇偶排序数组\bin\Debug\905-按奇偶排序数组.pdb
+G:\code\算法\905-按奇偶排序数组\obj\Debug\905-按奇偶排序数组.exe
+G:\code\算法\905-按奇偶排序数组\obj\Debug\905-按奇偶排序数组.pdb

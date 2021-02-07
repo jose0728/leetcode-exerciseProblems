@@ -1,0 +1,5 @@
+G:\code\算法\650-只有两个键的键盘\bin\Debug\650-只有两个键的键盘.exe.config
+G:\code\算法\650-只有两个键的键盘\bin\Debug\650-只有两个键的键盘.exe
+G:\code\算法\650-只有两个键的键盘\bin\Debug\650-只有两个键的键盘.pdb
+G:\code\算法\650-只有两个键的键盘\obj\Debug\650-只有两个键的键盘.exe
+G:\code\算法\650-只有两个键的键盘\obj\Debug\650-只有两个键的键盘.pdb

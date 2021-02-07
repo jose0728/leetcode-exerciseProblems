@@ -1,0 +1,5 @@
+G:\code\算法\三门问题\bin\Debug\三门问题.exe.config
+G:\code\算法\三门问题\bin\Debug\三门问题.exe
+G:\code\算法\三门问题\bin\Debug\三门问题.pdb
+G:\code\算法\三门问题\obj\Debug\三门问题.exe
+G:\code\算法\三门问题\obj\Debug\三门问题.pdb

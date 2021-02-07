@@ -1,0 +1,5 @@
+G:\code\算法\1033-移动石子直到连续\bin\Debug\1033-移动石子直到连续.exe.config
+G:\code\算法\1033-移动石子直到连续\bin\Debug\1033-移动石子直到连续.exe
+G:\code\算法\1033-移动石子直到连续\bin\Debug\1033-移动石子直到连续.pdb
+G:\code\算法\1033-移动石子直到连续\obj\Debug\1033-移动石子直到连续.exe
+G:\code\算法\1033-移动石子直到连续\obj\Debug\1033-移动石子直到连续.pdb
