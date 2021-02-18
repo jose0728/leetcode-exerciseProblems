@@ -13,6 +13,10 @@ namespace 排序
             //堆排序
             HeapSort heapSort = new HeapSort();
             heapSort.TestHeapSort();
+
+            //基数排序
+            RadixSort radixSort = new RadixSort();
+            radixSort.TestRadixSort();
         }
     }
 }
