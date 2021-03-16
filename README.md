@@ -1,2 +1,2 @@
 # leetcode-exerciseProblems
-leetcode练习 算法
+leetcode题目 算法
