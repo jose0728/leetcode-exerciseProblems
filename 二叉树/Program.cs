@@ -27,8 +27,8 @@ namespace 二叉树
             var e = BreadFirstSearch2(tree);
             var f = IsValidBST(tree);
             var g = IsValidBST2(tree);
-            //var h = DeleteNode(tree, 15);
-            var i = CountNodes22(tree);
+            var h = DeleteNode(tree, 5);
+            var i = CountNodes2(tree);
             Console.ReadKey();
         }
 
@@ -355,6 +355,7 @@ namespace 二叉树
             int right = CountLevel(root.RightTree);
             if (left == right)
             {
+                //<< 左移n位就是乘以2的n次方了(有符号数不完全适用,因为左移有可能导致符号变化
                 return CountNodes2(root.RightTree) + (1 << left);
             }
             else

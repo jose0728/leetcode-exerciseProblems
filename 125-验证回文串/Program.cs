@@ -72,7 +72,8 @@ namespace _125_验证回文串
         }
 
         /// <summary>
-        /// 方法三：在原字符串上直接判断
+        /// 方法三：双指针
+        /// 在原字符串上直接判断
         /// </summary>
         /// <param name="s"></param>
         /// <returns></returns>

@@ -9,6 +9,7 @@ namespace 旋转数组
     class Program
     {
         //leetcode 189题
+        //要求使用空间复杂度为 O(1) 的 原地 算法
         static void Main(string[] args)
         {
             int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
@@ -17,6 +18,7 @@ namespace 旋转数组
 
         /// <summary>
         /// 暴力解法
+        /// pervious的作用：每一次记录调整后数组的最后一个数字，作为交换的
         /// </summary>
         /// <param name="arr"></param>
         /// <param name="num"></param>

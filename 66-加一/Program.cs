@@ -10,7 +10,7 @@ namespace _66_加一
     {
         static void Main(string[] args)
         {
-            int[] a = { 3, 2, 1 };
+            int[] a = { 9, 9, 9 };
             int[] b = PlusOne(a);
         }
 

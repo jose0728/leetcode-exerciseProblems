@@ -72,6 +72,35 @@ namespace _3_无重复字符的最长子串
             }
             return ans;
         }
+
+        /// <summary>
+        /// 双指针
+        /// </summary>
+        /// <param name="s"></param>
+        /// <returns></returns>
+        public static int LengthOfLongestSubstring3(string s)
+        {
+            int n = s.Length, res = 0;
+            int i = 0;
+            int j = 0;
+            HashSet<char> set = new HashSet<char>();
+            while (i < n && j < n)
+            {
+                if (!set.Contains(s[j]))
+                {
+                    set.Add(s[j]);
+                    j++;
+                }
+                else
+                {
+                    set.Remove(s[i]);
+                    i++;
+                }
+                res = Math.Max(res, j - i);
+            }
+            return res;
+        }
+
     }
 
     public class SMap

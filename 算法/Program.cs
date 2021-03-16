@@ -13,7 +13,7 @@ namespace 算法
         {
             int[] a = { 1, 2, 2, 1 };
             int[] b = { 2, 2 };
-            int[] c = Method1(a, b);
+            int[] c = Method2(a, b);
         }
 
         /// <summary>

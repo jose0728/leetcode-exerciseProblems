@@ -10,8 +10,8 @@ namespace _1_两数之和
     {
         static void Main(string[] args)
         {
-            int[] a = new int[] { 2, 7, 11, 15 };
-            int[] b = Method2(a, 9);
+            int[] a = new int[] { 2, 13, 11, 7 };
+            int[] b = TwoNums(a, 9);
         }
 
         /// <summary>
