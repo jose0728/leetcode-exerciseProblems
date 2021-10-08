@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "167-两数之和 II - 输入有序数组/1.0.0": {
+        "runtime": {
+          "167-两数之和 II - 输入有序数组.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "167-两数之和 II - 输入有序数组/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

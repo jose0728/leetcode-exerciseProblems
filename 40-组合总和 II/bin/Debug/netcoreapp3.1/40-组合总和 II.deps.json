@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "40-组合总和 II/1.0.0": {
+        "runtime": {
+          "40-组合总和 II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "40-组合总和 II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -3,3 +3,9 @@ G:\code\算法\120-三角形最小路径和\bin\Debug\120-三角形最小路径�
 G:\code\算法\120-三角形最小路径和\bin\Debug\120-三角形最小路径和.pdb
 G:\code\算法\120-三角形最小路径和\obj\Debug\120-三角形最小路径和.exe
 G:\code\算法\120-三角形最小路径和\obj\Debug\120-三角形最小路径和.pdb
+G:\github\leetcode-exerciseProblems\120-三角形最小路径和\bin\Debug\120-三角形最小路径和.exe.config
+G:\github\leetcode-exerciseProblems\120-三角形最小路径和\bin\Debug\120-三角形最小路径和.exe
+G:\github\leetcode-exerciseProblems\120-三角形最小路径和\bin\Debug\120-三角形最小路径和.pdb
+G:\github\leetcode-exerciseProblems\120-三角形最小路径和\obj\Debug\120-三角形最小路径和.csprojAssemblyReference.cache
+G:\github\leetcode-exerciseProblems\120-三角形最小路径和\obj\Debug\120-三角形最小路径和.exe
+G:\github\leetcode-exerciseProblems\120-三角形最小路径和\obj\Debug\120-三角形最小路径和.pdb

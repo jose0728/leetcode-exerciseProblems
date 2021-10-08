@@ -10,7 +10,7 @@ namespace _59_螺旋矩阵2
     {
         static void Main(string[] args)
         {
-            var a = GenerateMatrix(3);
+            var a = GenerateMatrix2(3);
         }
 
         /// <summary>

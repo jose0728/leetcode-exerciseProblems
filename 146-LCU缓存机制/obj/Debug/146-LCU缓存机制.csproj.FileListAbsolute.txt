@@ -3,3 +3,8 @@ G:\code\算法\146-LCU缓存机制\bin\Debug\146-LCU缓存机制.exe
 G:\code\算法\146-LCU缓存机制\bin\Debug\146-LCU缓存机制.pdb
 G:\code\算法\146-LCU缓存机制\obj\Debug\146-LCU缓存机制.exe
 G:\code\算法\146-LCU缓存机制\obj\Debug\146-LCU缓存机制.pdb
+G:\github\leetcode-exerciseProblems\146-LCU缓存机制\bin\Debug\146-LCU缓存机制.exe.config
+G:\github\leetcode-exerciseProblems\146-LCU缓存机制\bin\Debug\146-LCU缓存机制.exe
+G:\github\leetcode-exerciseProblems\146-LCU缓存机制\bin\Debug\146-LCU缓存机制.pdb
+G:\github\leetcode-exerciseProblems\146-LCU缓存机制\obj\Debug\146-LCU缓存机制.exe
+G:\github\leetcode-exerciseProblems\146-LCU缓存机制\obj\Debug\146-LCU缓存机制.pdb

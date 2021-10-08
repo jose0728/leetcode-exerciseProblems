@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bcs9Ja0bIYLPXipyoQOwVYoYB5eMw+C2I4mWbRcIt3cjFFNryZK8J+AfqABtfXNXbOod7NlhjojiRpThVEoXUA==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\144-二叉树的前序遍历\\144-二叉树的前序遍历\\144-二叉树的前序遍历.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

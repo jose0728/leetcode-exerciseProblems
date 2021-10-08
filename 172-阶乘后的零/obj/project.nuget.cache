@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GxEJ4TC/5WZdcBeNyjKXfvBfiW1U7CjA9Mi8+4gDTkF07Ca7GQKw7ATwdD1wRyLGgSQ/sHb7o3dbubVHsrxrcQ==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\172-阶乘后的零\\172-阶乘后的零.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

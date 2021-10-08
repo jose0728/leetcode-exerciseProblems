@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Df385g/xBwu0ow6DvlbTS3LbkQiStv4PLTI9O2ek2QulC2uqqG2RTcXrmCHa7bUaQ9QUiQezM/E5UrPzSWf5FQ==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\204-计数质数\\204-计数质数.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

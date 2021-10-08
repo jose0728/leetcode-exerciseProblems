@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "108-将有序数组转换为二叉搜索树", "108-将有序数组转换为二叉搜索树\108-将有序数组转换为二叉搜索树.csproj", "{EB49D5DF-ACD0-4D53-90AB-F5C69783F994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB49D5DF-ACD0-4D53-90AB-F5C69783F994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB49D5DF-ACD0-4D53-90AB-F5C69783F994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB49D5DF-ACD0-4D53-90AB-F5C69783F994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB49D5DF-ACD0-4D53-90AB-F5C69783F994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E677B7C-BBB1-4B14-9CC6-99584BE8664B}
+	EndGlobalSection
+EndGlobal

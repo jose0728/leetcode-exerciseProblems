@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cec7dtvluzSMyLmiiCv4Ppnm5w3iq0LOHkliUumIMB5HixfdA6gG5WqnRgj9V25NQgN6fbCxNnCma03ZP6fOMw==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\1486-数组异或操作\\1486-数组异或操作\\1486-数组异或操作.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

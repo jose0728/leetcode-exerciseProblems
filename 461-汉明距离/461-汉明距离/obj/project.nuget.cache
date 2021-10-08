@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "98q6Fm5sf0OsQrYDFacocPQlPO8tPH6eWPQFhiu+lj8DW0QgagY/CBiFjSiTibtlNPJ8lqThbNlRth2U8R5xyg==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\461-汉明距离\\461-汉明距离\\461-汉明距离.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

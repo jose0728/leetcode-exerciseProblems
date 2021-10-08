@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzKeWrg51T4SrrtrMzAiGSOWRVq91/H5FmF6wVVbhNuB9vQ24IJ2rnUnhGLKSLAUSVUAMd5uvZdxAvyd7tFvKg==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\171-Excel表列序号\\171-Excel表列序号.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

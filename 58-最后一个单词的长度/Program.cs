@@ -8,10 +8,16 @@ namespace _58_最后一个单词的长度
 {
     class Program
     {
+        /// <summary>
+        /// 给你一个字符串 s，由若干单词组成，单词前后用一些空格字符隔开。返回字符串中最后一个单词的长度。
+        /// 单词 是指仅由字母组成、不包含任何空格字符的最大子字符串。
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
-            string s = "a ";
-            int a = LengthOfLastWord2(s);
+            //string s = "a ";
+            string s = "   fly me   to   the moon  ";
+            int a = LengthOfLastWord3(s);
         }
 
         public static int LengthOfLastWord(string s)

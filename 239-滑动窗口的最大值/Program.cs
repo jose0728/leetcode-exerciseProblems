@@ -19,21 +19,35 @@ namespace _239_滑动窗口的最大值
             int[] b = MaxSlidingWindow(a, 3);
         }
 
+        /// <summary>
+        /// 双端队列
+        /// 保证队首的元素是最大的
+        /// 队列里保存的是下标
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <param name="k"></param>
+        /// <returns></returns>
         public static int[] MaxSlidingWindow(int[] nums, int k)
         {
+
             int n = nums.Length;
             int[] res = new int[n - k + 1];
-            LinkedList<int> dq = new LinkedList<int>();
+            LinkedList<int> dq = new LinkedList<int>();//存的是元素的下标索引
             for (int i = 0; i < n; i++)
             {
-                if (dq.Count != 0 && dq.First.Value < (i - k + 1))
+                //超出窗口长度时删除队首
+                //队列中有元素，但是元素的下标已经过期，即不在k的滑动范围内，开始从进队的First位置移除过期的索引
+                if (dq.Count != 0 && dq.First.Value < (i - k + 1))//i-dq.First.Value+1>k
                 {
-                    dq.RemoveFirst();//超出窗口长度时删除队首
+                    dq.RemoveFirst();
                 }
+
+                //如果遍历的元素大于队尾元素就删除队尾
                 while (dq.Count != 0 && nums[i] >= nums[dq.Last.Value])
                 {
-                    dq.RemoveLast();//如果遍历的元素大于队尾元素就删除队尾
+                    dq.RemoveLast();
                 }
+
                 dq.AddLast(i);//添加
                 if (i >= k - 1)
                 {

@@ -3,3 +3,8 @@ G:\code\算法\全排列\bin\Debug\全排列.exe
 G:\code\算法\全排列\bin\Debug\全排列.pdb
 G:\code\算法\全排列\obj\Debug\全排列.exe
 G:\code\算法\全排列\obj\Debug\全排列.pdb
+G:\github\leetcode-exerciseProblems\全排列\bin\Debug\全排列.exe.config
+G:\github\leetcode-exerciseProblems\全排列\bin\Debug\全排列.exe
+G:\github\leetcode-exerciseProblems\全排列\bin\Debug\全排列.pdb
+G:\github\leetcode-exerciseProblems\全排列\obj\Debug\全排列.exe
+G:\github\leetcode-exerciseProblems\全排列\obj\Debug\全排列.pdb

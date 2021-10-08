@@ -11,7 +11,7 @@ namespace _1_两数之和
         static void Main(string[] args)
         {
             int[] a = new int[] { 2, 13, 11, 7 };
-            int[] b = TwoNums(a, 9);
+            int[] b = Method2(a, 9);
         }
 
         /// <summary>
@@ -21,6 +21,7 @@ namespace _1_两数之和
         /// <returns></returns>
         public static int[] TwoNums(int[] nums, int target)
         {
+            //找出两个数
             int[] numsbak = new int[nums.Length];
             Array.Copy(nums, numsbak, nums.Length);
             Array.Sort(nums);
@@ -43,6 +44,7 @@ namespace _1_两数之和
                 }
             }
 
+            //找出两个数的下标
             int x = -1, y = -1;
             for (int i = 0; i < numsbak.Length; i++)
             {

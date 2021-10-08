@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100-相同的树", "100-相同的树\100-相同的树.csproj", "{A9F19A83-14AE-497C-8430-F477F4C075EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F19A83-14AE-497C-8430-F477F4C075EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F19A83-14AE-497C-8430-F477F4C075EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F19A83-14AE-497C-8430-F477F4C075EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F19A83-14AE-497C-8430-F477F4C075EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC37537B-0C65-47BD-9F88-A09531462603}
+	EndGlobalSection
+EndGlobal

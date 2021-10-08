@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "151-翻转字符串里的单词", "151-翻转字符串里的单词\151-翻转字符串里的单词.csproj", "{2D2ADBB2-05A6-4CFD-891D-4BA2D8CA89BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D2ADBB2-05A6-4CFD-891D-4BA2D8CA89BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2ADBB2-05A6-4CFD-891D-4BA2D8CA89BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2ADBB2-05A6-4CFD-891D-4BA2D8CA89BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2ADBB2-05A6-4CFD-891D-4BA2D8CA89BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1030C507-10FE-4B58-A34B-2045E1CD4C79}
+	EndGlobalSection
+EndGlobal

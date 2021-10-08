@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "461-汉明距离/1.0.0": {
+        "runtime": {
+          "461-汉明距离.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "461-汉明距离/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

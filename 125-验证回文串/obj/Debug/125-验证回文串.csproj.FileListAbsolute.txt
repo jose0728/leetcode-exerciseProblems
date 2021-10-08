@@ -3,3 +3,8 @@ G:\code\算法\125-验证回文串\bin\Debug\125-验证回文串.exe
 G:\code\算法\125-验证回文串\bin\Debug\125-验证回文串.pdb
 G:\code\算法\125-验证回文串\obj\Debug\125-验证回文串.exe
 G:\code\算法\125-验证回文串\obj\Debug\125-验证回文串.pdb
+G:\github\leetcode-exerciseProblems\125-验证回文串\bin\Debug\125-验证回文串.exe.config
+G:\github\leetcode-exerciseProblems\125-验证回文串\bin\Debug\125-验证回文串.exe
+G:\github\leetcode-exerciseProblems\125-验证回文串\bin\Debug\125-验证回文串.pdb
+G:\github\leetcode-exerciseProblems\125-验证回文串\obj\Debug\125-验证回文串.exe
+G:\github\leetcode-exerciseProblems\125-验证回文串\obj\Debug\125-验证回文串.pdb

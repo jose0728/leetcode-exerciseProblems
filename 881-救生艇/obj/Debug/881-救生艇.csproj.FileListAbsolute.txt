@@ -3,3 +3,8 @@ G:\code\算法\881-救生艇\bin\Debug\881-救生艇.exe
 G:\code\算法\881-救生艇\bin\Debug\881-救生艇.pdb
 G:\code\算法\881-救生艇\obj\Debug\881-救生艇.exe
 G:\code\算法\881-救生艇\obj\Debug\881-救生艇.pdb
+G:\github\leetcode-exerciseProblems\881-救生艇\bin\Debug\881-救生艇.exe.config
+G:\github\leetcode-exerciseProblems\881-救生艇\bin\Debug\881-救生艇.exe
+G:\github\leetcode-exerciseProblems\881-救生艇\bin\Debug\881-救生艇.pdb
+G:\github\leetcode-exerciseProblems\881-救生艇\obj\Debug\881-救生艇.exe
+G:\github\leetcode-exerciseProblems\881-救生艇\obj\Debug\881-救生艇.pdb

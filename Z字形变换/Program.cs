@@ -11,7 +11,7 @@ namespace _6_Z字形变换
         static void Main(string[] args)
         {
             string a = "LEETCODEISHIRING";
-            string b = Convert2(a, 3);
+            string b = Convert1(a, 3);
         }
 
         /// <summary>

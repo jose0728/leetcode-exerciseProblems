@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCOZvPxKRv22Mwql1bTZHGr8PI4XVA8CMkVVMbQdz19MIWFBB+TXNJEqMJaPke21s8Zu+AoBfd160DtqsqDOiQ==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\108-将有序数组转换为二叉搜索树\\108-将有序数组转换为二叉搜索树\\108-将有序数组转换为二叉搜索树.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

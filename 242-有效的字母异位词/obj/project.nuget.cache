@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VikjsIg1hfWRIGz1QzMQxebvkWpEhhZJVMwCdJAvoEtDAV85+UUsNANvqLz8ykgbh4GtT2XYoMCHxwgCiXC0mQ==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\242-有效的字母异位词\\242-有效的字母异位词.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

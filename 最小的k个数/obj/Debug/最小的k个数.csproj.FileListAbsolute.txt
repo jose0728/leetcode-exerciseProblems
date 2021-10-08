@@ -3,3 +3,8 @@ G:\code\算法\最小的k个数\bin\Debug\最小的k个数.exe
 G:\code\算法\最小的k个数\bin\Debug\最小的k个数.pdb
 G:\code\算法\最小的k个数\obj\Debug\最小的k个数.exe
 G:\code\算法\最小的k个数\obj\Debug\最小的k个数.pdb
+G:\github\leetcode-exerciseProblems\最小的k个数\bin\Debug\最小的k个数.exe.config
+G:\github\leetcode-exerciseProblems\最小的k个数\bin\Debug\最小的k个数.exe
+G:\github\leetcode-exerciseProblems\最小的k个数\bin\Debug\最小的k个数.pdb
+G:\github\leetcode-exerciseProblems\最小的k个数\obj\Debug\最小的k个数.exe
+G:\github\leetcode-exerciseProblems\最小的k个数\obj\Debug\最小的k个数.pdb

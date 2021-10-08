@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Clfc64STohnS1ecOD/WiyHsBpc5HD+qoWrgDhSStbBK1WuusMr3McAYBS7yCNoMbx72GNeeLUJGvWOnAknOCxA==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\205-同构字符串\\205-同构字符串.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -15,7 +15,7 @@ namespace _48_旋转图像
             a[1] = new int[] { 5, 6, 7, 8 };
             a[2] = new int[] { 9, 10, 11, 12 };
             a[3] = new int[] { 13, 14, 15, 16 };
-            var b = Rotate2(a);
+            var b = Rotate(a);
         }
 
         /// <summary>

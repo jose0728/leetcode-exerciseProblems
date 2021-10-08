@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEIgDiE0/4AzYZkCZi329g0izzkw0d9z4uaNmAtgXdEV3VMYSDWQbTwqyeN7USS0nma5UH7nhYbB4Uu5v6uEJw==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\100-相同的树\\100-相同的树\\100-相同的树.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4zJAkox0ECtjApSE+XWykAfDK0q8xf1oPQQqw/9lmSI1fsOPrxurEx1wfC6WBFrCpMMw9Jj+XTZwUf3xTJlqNg==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\202-快乐数\\202-快乐数.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tgUOJgNKcth14Tc4/TnKBBbEptANlXW28lKks3/P/fn1lkknzwSqYeNFq6u7yrc1UIN98zB7XPFxZ2GvQ3UW0w==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\41-缺失的第一个正数\\41-缺失的第一个正数.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -3,3 +3,15 @@ G:\code\算法\二分法\bin\Debug\二分法.exe
 G:\code\算法\二分法\bin\Debug\二分法.pdb
 G:\code\算法\二分法\obj\Debug\二分法.exe
 G:\code\算法\二分法\obj\Debug\二分法.pdb
+G:\github\leetcode-exerciseProblems\二分法\bin\Debug\二分法.exe.config
+G:\github\leetcode-exerciseProblems\二分法\bin\Debug\二分法.exe
+G:\github\leetcode-exerciseProblems\二分法\bin\Debug\二分法.pdb
+G:\github\leetcode-exerciseProblems\二分法\obj\Debug\二分法.exe
+G:\github\leetcode-exerciseProblems\二分法\obj\Debug\二分法.pdb
+F:\code2\testdemo\leetcode-exerciseProblems\二分法\bin\Debug\二分法.exe.config
+F:\code2\testdemo\leetcode-exerciseProblems\二分法\bin\Debug\二分法.exe
+F:\code2\testdemo\leetcode-exerciseProblems\二分法\bin\Debug\二分法.pdb
+F:\code2\testdemo\leetcode-exerciseProblems\二分法\obj\Debug\二分法.csprojAssemblyReference.cache
+F:\code2\testdemo\leetcode-exerciseProblems\二分法\obj\Debug\二分法.csproj.CoreCompileInputs.cache
+F:\code2\testdemo\leetcode-exerciseProblems\二分法\obj\Debug\二分法.exe
+F:\code2\testdemo\leetcode-exerciseProblems\二分法\obj\Debug\二分法.pdb

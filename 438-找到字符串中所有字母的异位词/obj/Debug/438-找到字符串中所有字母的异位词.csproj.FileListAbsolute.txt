@@ -3,3 +3,8 @@ G:\code\算法\438-找到字符串中所有字母的异位词\bin\Debug\438-找�
 G:\code\算法\438-找到字符串中所有字母的异位词\bin\Debug\438-找到字符串中所有字母的异位词.pdb
 G:\code\算法\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.exe
 G:\code\算法\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.pdb
+G:\github\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\bin\Debug\438-找到字符串中所有字母的异位词.exe.config
+G:\github\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\bin\Debug\438-找到字符串中所有字母的异位词.exe
+G:\github\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\bin\Debug\438-找到字符串中所有字母的异位词.pdb
+G:\github\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.exe
+G:\github\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.pdb

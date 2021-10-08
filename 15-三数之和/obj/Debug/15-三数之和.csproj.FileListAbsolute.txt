@@ -3,3 +3,8 @@ G:\code\算法\15-三数之和\bin\Debug\15-三数之和.exe
 G:\code\算法\15-三数之和\bin\Debug\15-三数之和.pdb
 G:\code\算法\15-三数之和\obj\Debug\15-三数之和.exe
 G:\code\算法\15-三数之和\obj\Debug\15-三数之和.pdb
+G:\github\leetcode-exerciseProblems\15-三数之和\bin\Debug\15-三数之和.exe.config
+G:\github\leetcode-exerciseProblems\15-三数之和\bin\Debug\15-三数之和.exe
+G:\github\leetcode-exerciseProblems\15-三数之和\bin\Debug\15-三数之和.pdb
+G:\github\leetcode-exerciseProblems\15-三数之和\obj\Debug\15-三数之和.exe
+G:\github\leetcode-exerciseProblems\15-三数之和\obj\Debug\15-三数之和.pdb

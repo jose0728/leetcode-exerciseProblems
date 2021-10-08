@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+C/gzXflBzJ62k/EOUKskzdxspwlY5KSrKz7ANWlW7mP5qXXBElaPfC74S+7t+UJaAgLZO+81w8c167WeIBLvg==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\160-相交链表\\160-相交链表\\160-相交链表.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

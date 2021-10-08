@@ -3,3 +3,8 @@ G:\code\算法\大数打印\bin\Debug\大数打印.exe
 G:\code\算法\大数打印\bin\Debug\大数打印.pdb
 G:\code\算法\大数打印\obj\Debug\大数打印.exe
 G:\code\算法\大数打印\obj\Debug\大数打印.pdb
+G:\github\leetcode-exerciseProblems\大数打印\bin\Debug\大数打印.exe.config
+G:\github\leetcode-exerciseProblems\大数打印\bin\Debug\大数打印.exe
+G:\github\leetcode-exerciseProblems\大数打印\bin\Debug\大数打印.pdb
+G:\github\leetcode-exerciseProblems\大数打印\obj\Debug\大数打印.exe
+G:\github\leetcode-exerciseProblems\大数打印\obj\Debug\大数打印.pdb

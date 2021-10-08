@@ -3,3 +3,8 @@ G:\code\算法\博弈论-生男生女问题\bin\Debug\博弈论-生男生女问�
 G:\code\算法\博弈论-生男生女问题\bin\Debug\博弈论-生男生女问题.pdb
 G:\code\算法\博弈论-生男生女问题\obj\Debug\博弈论-生男生女问题.exe
 G:\code\算法\博弈论-生男生女问题\obj\Debug\博弈论-生男生女问题.pdb
+G:\github\leetcode-exerciseProblems\博弈论-生男生女问题\bin\Debug\博弈论-生男生女问题.exe.config
+G:\github\leetcode-exerciseProblems\博弈论-生男生女问题\bin\Debug\博弈论-生男生女问题.exe
+G:\github\leetcode-exerciseProblems\博弈论-生男生女问题\bin\Debug\博弈论-生男生女问题.pdb
+G:\github\leetcode-exerciseProblems\博弈论-生男生女问题\obj\Debug\博弈论-生男生女问题.exe
+G:\github\leetcode-exerciseProblems\博弈论-生男生女问题\obj\Debug\博弈论-生男生女问题.pdb

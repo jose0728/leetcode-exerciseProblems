@@ -6,6 +6,12 @@ G:\code\算法\3-无重复字符的最长子串\obj\Debug\3-无重复字符的�
 G:\github\leetcode-exerciseProblems\3-无重复字符的最长子串\bin\Debug\3-无重复字符的最长子串.exe.config
 G:\github\leetcode-exerciseProblems\3-无重复字符的最长子串\bin\Debug\3-无重复字符的最长子串.exe
 G:\github\leetcode-exerciseProblems\3-无重复字符的最长子串\bin\Debug\3-无重复字符的最长子串.pdb
-G:\github\leetcode-exerciseProblems\3-无重复字符的最长子串\obj\Debug\3-无重复字符的最长子串.csprojAssemblyReference.cache
 G:\github\leetcode-exerciseProblems\3-无重复字符的最长子串\obj\Debug\3-无重复字符的最长子串.exe
 G:\github\leetcode-exerciseProblems\3-无重复字符的最长子串\obj\Debug\3-无重复字符的最长子串.pdb
+F:\code2\code2\testdemo\leetcode-exerciseProblems\3-无重复字符的最长子串\bin\Debug\3-无重复字符的最长子串.exe.config
+F:\code2\code2\testdemo\leetcode-exerciseProblems\3-无重复字符的最长子串\bin\Debug\3-无重复字符的最长子串.exe
+F:\code2\code2\testdemo\leetcode-exerciseProblems\3-无重复字符的最长子串\bin\Debug\3-无重复字符的最长子串.pdb
+F:\code2\code2\testdemo\leetcode-exerciseProblems\3-无重复字符的最长子串\obj\Debug\3-无重复字符的最长子串.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\testdemo\leetcode-exerciseProblems\3-无重复字符的最长子串\obj\Debug\3-无重复字符的最长子串.csproj.CoreCompileInputs.cache
+F:\code2\code2\testdemo\leetcode-exerciseProblems\3-无重复字符的最长子串\obj\Debug\3-无重复字符的最长子串.exe
+F:\code2\code2\testdemo\leetcode-exerciseProblems\3-无重复字符的最长子串\obj\Debug\3-无重复字符的最长子串.pdb

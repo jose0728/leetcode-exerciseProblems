@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "144-二叉树的前序遍历/1.0.0": {
+        "runtime": {
+          "144-二叉树的前序遍历.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "144-二叉树的前序遍历/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

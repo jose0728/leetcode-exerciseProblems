@@ -8,6 +8,12 @@ namespace _74_搜索二维矩阵
 {
     class Program
     {
+        /// <summary>
+        /// 编写一个高效的算法来判断 m x n 矩阵中，是否存在一个目标值。该矩阵具有如下特性：
+        /// 每行中的整数从左到右按升序排列
+        /// 每行的第一个整数大于前一行的最后一个整数。
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             int[][] matrix = new int[3][];
@@ -26,7 +32,9 @@ namespace _74_搜索二维矩阵
         public static bool SearchMatrix(int[][] matrix, int target)
         {
             if (matrix.Length < 1) return false;
+            //先定位他应该在哪行
             int row = GetRow(matrix, target);
+            //再在这行找他
             return Find(matrix[row], target);
         }
 
@@ -34,7 +42,9 @@ namespace _74_搜索二维矩阵
         {
             int top = 0;
             int bottom = matrix.Length - 1;
+
             int col = matrix[0].Length - 1;
+
             while (top < bottom)
             {
                 int mid = (top + bottom) / 2;

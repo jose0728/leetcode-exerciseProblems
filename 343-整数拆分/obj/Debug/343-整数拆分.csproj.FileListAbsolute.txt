@@ -3,3 +3,8 @@ G:\code\算法\343-整数拆分\bin\Debug\343-整数拆分.exe
 G:\code\算法\343-整数拆分\bin\Debug\343-整数拆分.pdb
 G:\code\算法\343-整数拆分\obj\Debug\343-整数拆分.exe
 G:\code\算法\343-整数拆分\obj\Debug\343-整数拆分.pdb
+G:\github\leetcode-exerciseProblems\343-整数拆分\bin\Debug\343-整数拆分.exe.config
+G:\github\leetcode-exerciseProblems\343-整数拆分\bin\Debug\343-整数拆分.exe
+G:\github\leetcode-exerciseProblems\343-整数拆分\bin\Debug\343-整数拆分.pdb
+G:\github\leetcode-exerciseProblems\343-整数拆分\obj\Debug\343-整数拆分.exe
+G:\github\leetcode-exerciseProblems\343-整数拆分\obj\Debug\343-整数拆分.pdb

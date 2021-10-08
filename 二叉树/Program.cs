@@ -27,8 +27,11 @@ namespace 二叉树
             var e = BreadFirstSearch2(tree);
             var f = IsValidBST(tree);
             var g = IsValidBST2(tree);
-            var h = DeleteNode(tree, 5);
+            //var h = DeleteNode(tree, 5);
             var i = CountNodes2(tree);
+
+            Program program = new Program();
+            var j = program.MinDiffInBST(tree);
             Console.ReadKey();
         }
 
@@ -391,6 +394,39 @@ namespace 二叉树
                 root = root.LeftTree;
             }
             return level;
+        }
+
+        /// <summary>
+        /// 783. 二叉搜索树节点最小距离
+        /// </summary>
+        /// <param name="root"></param>
+        /// <returns></returns>
+        int ans;
+        Tree<int> preTree;
+        public int MinDiffInBST(Tree<int> root)
+        {
+            ans = int.MaxValue;
+            MinDiffDfsBST(root);
+            return ans;
+        }
+
+        public void MinDiffDfsBST(Tree<int> root)
+        {
+            if (root == null)
+            {
+                return;
+            }
+
+            MinDiffDfsBST(root.LeftTree);
+
+            if (preTree != null)
+            {
+                ans = Math.Min(ans, root.NodeData - preTree.NodeData);
+            }
+
+            preTree = root;
+
+            MinDiffDfsBST(root.RightTree);
         }
     }
 }

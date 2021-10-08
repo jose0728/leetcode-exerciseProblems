@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1FmOp7V98t6U8zci1iZnaApdoYHLI6GDY1EbyJnG3zKiWll/S55lpXuHERE7fIdJs77WGS+hQzV13eGB0tSsg==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\13-罗马数字转整数\\13-罗马数字转整数\\13-罗马数字转整数.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -4,3 +4,9 @@ G:\code\算法\289-生命游戏\bin\Debug\289-生命游戏.pdb
 G:\code\算法\289-生命游戏\obj\Debug\289-生命游戏.csprojAssemblyReference.cache
 G:\code\算法\289-生命游戏\obj\Debug\289-生命游戏.exe
 G:\code\算法\289-生命游戏\obj\Debug\289-生命游戏.pdb
+G:\github\leetcode-exerciseProblems\289-生命游戏\bin\Debug\289-生命游戏.exe.config
+G:\github\leetcode-exerciseProblems\289-生命游戏\bin\Debug\289-生命游戏.exe
+G:\github\leetcode-exerciseProblems\289-生命游戏\bin\Debug\289-生命游戏.pdb
+G:\github\leetcode-exerciseProblems\289-生命游戏\obj\Debug\289-生命游戏.csprojAssemblyReference.cache
+G:\github\leetcode-exerciseProblems\289-生命游戏\obj\Debug\289-生命游戏.exe
+G:\github\leetcode-exerciseProblems\289-生命游戏\obj\Debug\289-生命游戏.pdb

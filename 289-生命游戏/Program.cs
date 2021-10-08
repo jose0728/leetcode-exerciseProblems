@@ -24,7 +24,7 @@ namespace _289_生命游戏
         /// <param name="board"></param>
         public static int[][] GameOfLife(int[][] board)
         {
-            int[] neighbors = { 0, 1, -1 };
+            int[] neighbors = { 0, 1, -1 };//{0. 1. -1} 这三个位置可以随意安排，安排的顺序表示当前结点周围的8个结点的遍历顺序而已。
 
             int rows = board.Length;
             int cols = board[0].Length;

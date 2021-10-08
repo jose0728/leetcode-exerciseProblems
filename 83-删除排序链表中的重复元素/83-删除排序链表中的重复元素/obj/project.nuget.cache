@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HM89IAmqb76zdYkeaznSXmAQjVw67N3BHX6s5Xwy+pr3uORLGA8hf1Ih4i7T3qZVvK0D5eOXPxXkx06pVejL6g==",
+  "success": true,
+  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\83-删除排序链表中的重复元素\\83-删除排序链表中的重复元素\\83-删除排序链表中的重复元素.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

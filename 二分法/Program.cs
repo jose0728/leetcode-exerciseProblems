@@ -13,7 +13,7 @@ namespace 二分法
             int[] piles = { 3, 6, 7, 11 };
             int H = 8;
             var a = MinEatingSpeed(piles, H);
-            var b = MySqrt(8);
+            var b = MySqr4(8);
 
             int[] nuns = { 3, 4, 5, 0, 1 };
             var c = FindMin2(nuns);
@@ -24,6 +24,11 @@ namespace 二分法
 
         /// <summary>
         /// 爱吃香蕉的阿珂（leetcode875题）
+        /// 珂珂喜欢吃香蕉。这里有 N 堆香蕉，第 i 堆中有 piles[i] 根香蕉。警卫已经离开了，将在 H 小时后回来。
+        /// 珂珂可以决定她吃香蕉的速度 K （单位：根/小时）。
+        /// 每个小时，她将会选择一堆香蕉，从中吃掉 K 根。如果这堆香蕉少于 K 根，她将吃掉这堆的所有香蕉，然后这一小时内不会再吃更多的香蕉。  
+        /// 珂珂喜欢慢慢吃，但仍然想在警卫回来前吃掉所有的香蕉。
+        /// 返回她可以在 H 小时内吃掉所有香蕉的最小速度 K（K 为整数）。
         /// </summary>
         /// <param name="piles"></param>
         /// <param name="H"></param>
@@ -73,10 +78,15 @@ namespace 二分法
         private static bool CanEatFinish(int[] piles, int H, int K)
         {
             int h = 0;
+            //foreach (int p in piles)
+            //{
+            //    h += (p - 1) / K + 1;
+            //}
             foreach (int p in piles)
             {
-                h += (p - 1) / K + 1;
+                h += (int)Math.Ceiling(p * 1.0 / K);
             }
+
             return h <= H;
         }
 
@@ -126,6 +136,30 @@ namespace 二分法
             return (int)Math.Sqrt(x);
         }
 
+        public static int MySqr4(int x)
+        {
+            if (x == 0)
+                return 0;
+            if (x == 1)
+                return 1;
+            long left = 1;
+            long right = x / 2;
+
+            while (left < right)
+            {
+                long mid = (right - left) / 2 + left;
+                if (mid < x / mid)
+                {
+                    left = mid;
+                }
+                else
+                {
+                    right = mid - 1;
+                }
+            }
+            return (int)left;
+        }
+
         /// <summary>
         /// 第一个错误的版本（leetcode278题）
         /// </summary>
@@ -163,6 +197,11 @@ namespace 二分法
 
         /// <summary>
         /// 旋转排序数组最小值Ⅰ（leetcode153题）
+        /// 已知一个长度为 n 的数组，预先按照升序排列，经由 1 到 n 次 旋转 后，得到输入数组。例如，原数组 nums = [0,1,2,4,5,6,7] 在变化后可能得到：
+        /// 若旋转 4 次，则可以得到[4, 5, 6, 7, 0, 1, 2]
+        /// 若旋转 7 次，则可以得到[0, 1, 2, 4, 5, 6, 7]
+        /// 注意，数组[a[0], a[1], a[2], ..., a[n - 1]] 旋转一次 的结果为数组[a[n - 1], a[0], a[1], a[2], ..., a[n - 2]] 。
+        /// 给你一个元素值 互不相同 的数组 nums ，它原来是一个升序排列的数组，并按上述情形进行了多次旋转。请你找出并返回数组中的 最小元素 。
         /// 二分法（官方题解）
         /// </summary>
         /// <param name="nums"></param>
@@ -177,6 +216,7 @@ namespace 二分法
             int left = 0;
             int right = nums.Length - 1;
 
+            //如果没有旋转过，那nums[right]必定大于nums[0]，nums[0]是最小元素
             if (nums[right] > nums[0])
             {
                 return nums[0];
@@ -185,11 +225,14 @@ namespace 二分法
             while (left <= right)
             {
                 int mid = left + (right - left) / 2;
+
+                //特判
                 if (nums[mid] > nums[mid + 1])
                 {
                     return nums[mid + 1];
                 }
 
+                //特判
                 if (nums[mid - 1] > nums[mid])
                 {
                     return nums[mid];
@@ -248,6 +291,11 @@ namespace 二分法
 
         /// <summary>
         /// 旋转排序数组中的最小值Ⅱ（leetcode154题）
+        /// 已知一个长度为 n 的数组，预先按照升序排列，经由 1 到 n 次 旋转 后，得到输入数组。例如，原数组 nums = [0,1,4,4,5,6,7] 在变化后可能得到：
+        /// 若旋转 4 次，则可以得到[4, 5, 6, 7, 0, 1, 4]
+        /// 若旋转 7 次，则可以得到[0, 1, 4, 4, 5, 6, 7]
+        /// 注意，数组[a[0], a[1], a[2], ..., a[n - 1]] 旋转一次 的结果为数组[a[n - 1], a[0], a[1], a[2], ..., a[n - 2]] 。
+        /// 给你一个可能存在 重复 元素值的数组 nums ，它原来是一个升序排列的数组，并按上述情形进行了多次旋转。请你找出并返回数组中的 最小元素 。
         /// 二分法
         /// </summary>
         /// <param name="nums"></param>
@@ -300,6 +348,10 @@ namespace 二分法
          */
         /// <summary>
         /// 供暖器（leetcode475题）
+        /// 冬季已经来临。 你的任务是设计一个有固定加热半径的供暖器向所有房屋供暖。
+        /// 在加热器的加热半径范围内的每个房屋都可以获得供暖。
+        /// 现在，给出位于一条水平线上的房屋 houses 和供暖器 heaters 的位置，请你找出并返回可以覆盖所有房屋的最小加热半径。
+        /// 说明：所有供暖器都遵循你的半径标准，加热的半径也一样。
         /// </summary>
         /// <param name="houses"></param>
         /// <param name="heaters"></param>
@@ -313,6 +365,7 @@ namespace 二分法
             {
                 int left = 0;
                 int right = heaters.Length - 1;
+
                 //找到离本房子最近的加热器
                 while (left < right)
                 {

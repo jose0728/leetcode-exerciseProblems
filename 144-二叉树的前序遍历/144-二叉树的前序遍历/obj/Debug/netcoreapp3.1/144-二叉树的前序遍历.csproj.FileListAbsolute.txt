@@ -1,0 +1,11 @@
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\bin\Debug\netcoreapp3.1\144-二叉树的前序遍历.exe
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\bin\Debug\netcoreapp3.1\144-二叉树的前序遍历.deps.json
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\bin\Debug\netcoreapp3.1\144-二叉树的前序遍历.runtimeconfig.json
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\bin\Debug\netcoreapp3.1\144-二叉树的前序遍历.runtimeconfig.dev.json
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\bin\Debug\netcoreapp3.1\144-二叉树的前序遍历.dll
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\bin\Debug\netcoreapp3.1\144-二叉树的前序遍历.pdb
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\obj\Debug\netcoreapp3.1\144-二叉树的前序遍历.csprojAssemblyReference.cache
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\obj\Debug\netcoreapp3.1\144-二叉树的前序遍历.AssemblyInfoInputs.cache
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\obj\Debug\netcoreapp3.1\144-二叉树的前序遍历.AssemblyInfo.cs
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\obj\Debug\netcoreapp3.1\144-二叉树的前序遍历.dll
+G:\github\leetcode-exerciseProblems\144-二叉树的前序遍历\144-二叉树的前序遍历\obj\Debug\netcoreapp3.1\144-二叉树的前序遍历.pdb

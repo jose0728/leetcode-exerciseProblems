@@ -6,6 +6,12 @@ G:\code\算法\二叉树\obj\Debug\二叉树.pdb
 G:\github\leetcode-exerciseProblems\二叉树\bin\Debug\二叉树.exe.config
 G:\github\leetcode-exerciseProblems\二叉树\bin\Debug\二叉树.exe
 G:\github\leetcode-exerciseProblems\二叉树\bin\Debug\二叉树.pdb
-G:\github\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.csprojAssemblyReference.cache
 G:\github\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.exe
 G:\github\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.pdb
+F:\code2\testdemo\leetcode-exerciseProblems\二叉树\bin\Debug\二叉树.exe.config
+F:\code2\testdemo\leetcode-exerciseProblems\二叉树\bin\Debug\二叉树.exe
+F:\code2\testdemo\leetcode-exerciseProblems\二叉树\bin\Debug\二叉树.pdb
+F:\code2\testdemo\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.csprojAssemblyReference.cache
+F:\code2\testdemo\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.csproj.CoreCompileInputs.cache
+F:\code2\testdemo\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.exe
+F:\code2\testdemo\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.pdb

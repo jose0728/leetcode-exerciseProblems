@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "203-移除链表元素/1.0.0": {
+        "runtime": {
+          "203-移除链表元素.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "203-移除链表元素/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

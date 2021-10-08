@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16-最接近的三数之和", "16-最接近的三数之和.csproj", "{5882D1D5-51FD-48B1-A936-9A29BE86413C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-四数之和", "..\18-四数之和\18-四数之和.csproj", "{A66C27AF-E416-40E7-8A65-EB4004B970A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5882D1D5-51FD-48B1-A936-9A29BE86413C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5882D1D5-51FD-48B1-A936-9A29BE86413C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5882D1D5-51FD-48B1-A936-9A29BE86413C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5882D1D5-51FD-48B1-A936-9A29BE86413C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66C27AF-E416-40E7-8A65-EB4004B970A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66C27AF-E416-40E7-8A65-EB4004B970A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66C27AF-E416-40E7-8A65-EB4004B970A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66C27AF-E416-40E7-8A65-EB4004B970A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8732B3-5698-49CC-AB73-88D630EACBA3}
+	EndGlobalSection
+EndGlobal

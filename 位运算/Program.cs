@@ -13,6 +13,7 @@ namespace 位运算
             int a = SumNums(4);
             var b = IsPowerOfTwo3(8);
             var c = HammingWeight(11);
+            var d = MissingNumber3(new int[] { 1, 2, 3, 5 });
         }
 
 

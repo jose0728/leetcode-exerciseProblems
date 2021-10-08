@@ -3,3 +3,8 @@ G:\code\算法\679-24点游戏\bin\Debug\679-24点游戏.exe
 G:\code\算法\679-24点游戏\bin\Debug\679-24点游戏.pdb
 G:\code\算法\679-24点游戏\obj\Debug\679-24点游戏.exe
 G:\code\算法\679-24点游戏\obj\Debug\679-24点游戏.pdb
+G:\github\leetcode-exerciseProblems\679-24点游戏\bin\Debug\679-24点游戏.exe.config
+G:\github\leetcode-exerciseProblems\679-24点游戏\bin\Debug\679-24点游戏.exe
+G:\github\leetcode-exerciseProblems\679-24点游戏\bin\Debug\679-24点游戏.pdb
+G:\github\leetcode-exerciseProblems\679-24点游戏\obj\Debug\679-24点游戏.exe
+G:\github\leetcode-exerciseProblems\679-24点游戏\obj\Debug\679-24点游戏.pdb

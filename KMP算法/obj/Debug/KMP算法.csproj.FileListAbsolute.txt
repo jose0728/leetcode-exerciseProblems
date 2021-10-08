@@ -3,3 +3,8 @@ G:\code\算法\KMP算法\bin\Debug\KMP算法.exe
 G:\code\算法\KMP算法\bin\Debug\KMP算法.pdb
 G:\code\算法\KMP算法\obj\Debug\KMP算法.exe
 G:\code\算法\KMP算法\obj\Debug\KMP算法.pdb
+G:\github\leetcode-exerciseProblems\KMP算法\bin\Debug\KMP算法.exe.config
+G:\github\leetcode-exerciseProblems\KMP算法\bin\Debug\KMP算法.exe
+G:\github\leetcode-exerciseProblems\KMP算法\bin\Debug\KMP算法.pdb
+G:\github\leetcode-exerciseProblems\KMP算法\obj\Debug\KMP算法.exe
+G:\github\leetcode-exerciseProblems\KMP算法\obj\Debug\KMP算法.pdb

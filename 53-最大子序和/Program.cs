@@ -8,8 +8,15 @@ namespace _53_最大子序和
 {
     class Program
     {
+        /// <summary>
+        /// 给定一个整数数组 nums ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
+            int[] nums = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
+            int res = MaxSubArray1(nums);
+
         }
 
         /// <summary>
@@ -17,7 +24,7 @@ namespace _53_最大子序和
         /// </summary>
         /// <param name="nums"></param>
         /// <returns></returns>
-        public int MaxSubArray1(int[] nums)
+        public static int MaxSubArray1(int[] nums)
         {
             int res = int.MinValue;
             for (int i = 0; i < nums.Length; i++)

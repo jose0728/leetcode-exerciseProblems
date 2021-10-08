@@ -4,3 +4,9 @@ G:\code\算法\旋转数组\bin\Debug\旋转数组.pdb
 G:\code\算法\旋转数组\obj\Debug\旋转数组.exe
 G:\code\算法\旋转数组\obj\Debug\旋转数组.pdb
 G:\code\算法\旋转数组\obj\Debug\旋转数组.csprojAssemblyReference.cache
+G:\github\leetcode-exerciseProblems\旋转数组\bin\Debug\旋转数组.exe.config
+G:\github\leetcode-exerciseProblems\旋转数组\bin\Debug\旋转数组.exe
+G:\github\leetcode-exerciseProblems\旋转数组\bin\Debug\旋转数组.pdb
+G:\github\leetcode-exerciseProblems\旋转数组\obj\Debug\旋转数组.csprojAssemblyReference.cache
+G:\github\leetcode-exerciseProblems\旋转数组\obj\Debug\旋转数组.exe
+G:\github\leetcode-exerciseProblems\旋转数组\obj\Debug\旋转数组.pdb

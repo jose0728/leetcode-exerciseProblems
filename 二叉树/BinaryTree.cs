@@ -135,7 +135,7 @@ namespace 二叉树
             Tree<T> temp = null;
             while (nodeList.Count > 0)
             {
-                Console.Write(nodeList[0].NodeData);
+                Console.Write(nodeList[0].NodeData + " ");
                 temp = nodeList[0];
                 nodeList.Remove(nodeList[0]);
                 if (temp.LeftTree != null)

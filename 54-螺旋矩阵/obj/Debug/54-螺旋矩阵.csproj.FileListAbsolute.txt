@@ -3,3 +3,8 @@ G:\code\算法\54-螺旋矩阵\bin\Debug\54-螺旋矩阵.exe
 G:\code\算法\54-螺旋矩阵\bin\Debug\54-螺旋矩阵.pdb
 G:\code\算法\54-螺旋矩阵\obj\Debug\54-螺旋矩阵.exe
 G:\code\算法\54-螺旋矩阵\obj\Debug\54-螺旋矩阵.pdb
+G:\github\leetcode-exerciseProblems\54-螺旋矩阵\bin\Debug\54-螺旋矩阵.exe.config
+G:\github\leetcode-exerciseProblems\54-螺旋矩阵\bin\Debug\54-螺旋矩阵.exe
+G:\github\leetcode-exerciseProblems\54-螺旋矩阵\bin\Debug\54-螺旋矩阵.pdb
+G:\github\leetcode-exerciseProblems\54-螺旋矩阵\obj\Debug\54-螺旋矩阵.exe
+G:\github\leetcode-exerciseProblems\54-螺旋矩阵\obj\Debug\54-螺旋矩阵.pdb
