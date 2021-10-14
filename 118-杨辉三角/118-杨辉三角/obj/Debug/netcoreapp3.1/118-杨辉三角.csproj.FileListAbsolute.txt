@@ -22,3 +22,16 @@ G:\github\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\
 G:\github\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.dll
 G:\github\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.pdb
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\bin\Debug\netcoreapp3.1\118-杨辉三角.exe
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\bin\Debug\netcoreapp3.1\118-杨辉三角.deps.json
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\bin\Debug\netcoreapp3.1\118-杨辉三角.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\bin\Debug\netcoreapp3.1\118-杨辉三角.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\bin\Debug\netcoreapp3.1\118-杨辉三角.dll
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\bin\Debug\netcoreapp3.1\118-杨辉三角.pdb
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.dll
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.pdb
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.genruntimeconfig.cache

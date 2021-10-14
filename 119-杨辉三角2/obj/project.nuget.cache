@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A+FAyMEAUZJkIYZJIgZixE1ccnUoVaNvm+paQg265rQ2SwXTy63DBNw/YDLnUpQ02TzTOkG6DCdQzI4Ww1CxGQ==",
+  "dgSpecHash": "JP5LbRXwut2reOPbFXsvpIbH0756smNiXStQqP7g9SDg0Tm2GyQHvQT9AiQcKnXsxAA0Tx03LPShRKCqOkO+2w==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\119-杨辉三角2\\119-杨辉三角2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\119-杨辉三角2\\119-杨辉三角2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

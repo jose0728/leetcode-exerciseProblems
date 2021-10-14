@@ -23,3 +23,11 @@ F:\code2\code2\testdemo\leetcode-exerciseProblems\239-滑动窗口的最大值\o
 F:\code2\code2\testdemo\leetcode-exerciseProblems\239-滑动窗口的最大值\obj\Debug\239-滑动窗口的最大值.exe
 F:\code2\code2\testdemo\leetcode-exerciseProblems\239-滑动窗口的最大值\obj\Debug\239-滑动窗口的最大值.pdb
 F:\code2\code2\testdemo\leetcode-exerciseProblems\239-滑动窗口的最大值\obj\Debug\239-滑动窗口的最大值.csproj.AssemblyReference.cache
+F:\code2\code2\leetcode-exerciseProblems\239-滑动窗口的最大值\bin\Debug\239-滑动窗口的最大值.exe.config
+F:\code2\code2\leetcode-exerciseProblems\239-滑动窗口的最大值\bin\Debug\239-滑动窗口的最大值.exe
+F:\code2\code2\leetcode-exerciseProblems\239-滑动窗口的最大值\bin\Debug\239-滑动窗口的最大值.pdb
+F:\code2\code2\leetcode-exerciseProblems\239-滑动窗口的最大值\obj\Debug\239-滑动窗口的最大值.csproj.AssemblyReference.cache
+F:\code2\code2\leetcode-exerciseProblems\239-滑动窗口的最大值\obj\Debug\239-滑动窗口的最大值.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\239-滑动窗口的最大值\obj\Debug\239-滑动窗口的最大值.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\239-滑动窗口的最大值\obj\Debug\239-滑动窗口的最大值.exe
+F:\code2\code2\leetcode-exerciseProblems\239-滑动窗口的最大值\obj\Debug\239-滑动窗口的最大值.pdb

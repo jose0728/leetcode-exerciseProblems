@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\字符串转换为整数\bin\Debug\字符串
 G:\github\leetcode-exerciseProblems\字符串转换为整数\bin\Debug\字符串转换为整数.pdb
 G:\github\leetcode-exerciseProblems\字符串转换为整数\obj\Debug\字符串转换为整数.exe
 G:\github\leetcode-exerciseProblems\字符串转换为整数\obj\Debug\字符串转换为整数.pdb
+F:\code2\code2\leetcode-exerciseProblems\字符串转换为整数\obj\Debug\字符串转换为整数.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\字符串转换为整数\obj\Debug\字符串转换为整数.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\字符串转换为整数\bin\Debug\8-字符串转换为整数.exe.config
+F:\code2\code2\leetcode-exerciseProblems\字符串转换为整数\bin\Debug\8-字符串转换为整数.exe
+F:\code2\code2\leetcode-exerciseProblems\字符串转换为整数\bin\Debug\8-字符串转换为整数.pdb
+F:\code2\code2\leetcode-exerciseProblems\字符串转换为整数\obj\Debug\8-字符串转换为整数.exe
+F:\code2\code2\leetcode-exerciseProblems\字符串转换为整数\obj\Debug\8-字符串转换为整数.pdb

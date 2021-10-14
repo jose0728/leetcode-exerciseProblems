@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vwcC3wghqq6VPz9WLedF5O7tLuUnRm98I7s07WxO+P9jicaJF8QZXmLpi1/kl9tNxf2bFVEV33+t07spb/266A==",
+  "dgSpecHash": "1Sfy5EjsMu1ji/vIDEeqi45ZTXs0I1OZegY9pZBsJH6HNC1wnhJ1hES4reVX0oc5DlaF9NtLXCdtGCKkc8NTag==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\237-删除链表中的节点\\237-删除链表中的节点.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\237-删除链表中的节点\\237-删除链表中的节点.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

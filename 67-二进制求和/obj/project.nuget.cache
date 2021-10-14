@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SNG2IJ5jtTnwdRyd2enkRDdvy7Yi6BbA4lx6zBl3ofi5ik79gsCocxGiPXInrq9cakDZiJicAsxxPGKEjEH1tQ==",
+  "dgSpecHash": "DtSn9gPsH+BjnpmoTJbqc52CSwbIHYAj7Bblvh4eCD6ZP9NOQUhcEZBdoVyB6ixOLmi6Y+5VQPMJhsTagvHDrw==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\67-二进制求和\\67-二进制求和.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\67-二进制求和\\67-二进制求和.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

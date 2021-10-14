@@ -8,3 +8,11 @@ G:\github\leetcode-exerciseProblems\全排列\bin\Debug\全排列.exe
 G:\github\leetcode-exerciseProblems\全排列\bin\Debug\全排列.pdb
 G:\github\leetcode-exerciseProblems\全排列\obj\Debug\全排列.exe
 G:\github\leetcode-exerciseProblems\全排列\obj\Debug\全排列.pdb
+F:\code2\code2\leetcode-exerciseProblems\全排列\bin\Debug\全排列.exe.config
+F:\code2\code2\leetcode-exerciseProblems\全排列\bin\Debug\全排列.exe
+F:\code2\code2\leetcode-exerciseProblems\全排列\bin\Debug\全排列.pdb
+F:\code2\code2\leetcode-exerciseProblems\全排列\obj\Debug\全排列.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\全排列\obj\Debug\全排列.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\全排列\obj\Debug\全排列.exe
+F:\code2\code2\leetcode-exerciseProblems\全排列\obj\Debug\全排列.pdb
+F:\code2\code2\leetcode-exerciseProblems\全排列\obj\Debug\全排列.csproj.AssemblyReference.cache

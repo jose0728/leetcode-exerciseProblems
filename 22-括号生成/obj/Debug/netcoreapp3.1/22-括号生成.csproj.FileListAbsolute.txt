@@ -22,3 +22,17 @@ G:\github\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-�
 G:\github\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.dll
 G:\github\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.pdb
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\bin\Debug\netcoreapp3.1\22-括号生成.exe
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\bin\Debug\netcoreapp3.1\22-括号生成.deps.json
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\bin\Debug\netcoreapp3.1\22-括号生成.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\bin\Debug\netcoreapp3.1\22-括号生成.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\bin\Debug\netcoreapp3.1\22-括号生成.dll
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\bin\Debug\netcoreapp3.1\22-括号生成.pdb
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.csproj.AssemblyReference.cache
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.dll
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.pdb
+F:\code2\code2\leetcode-exerciseProblems\22-括号生成\obj\Debug\netcoreapp3.1\22-括号生成.genruntimeconfig.cache

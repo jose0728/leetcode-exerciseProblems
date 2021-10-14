@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Clfc64STohnS1ecOD/WiyHsBpc5HD+qoWrgDhSStbBK1WuusMr3McAYBS7yCNoMbx72GNeeLUJGvWOnAknOCxA==",
+  "dgSpecHash": "s6a0Z8lPZ9fbz6HvZZnbJFuV4u/t7xtKvhBiHpiY6gcPpCXDNy+QDe/N6ezcySqUFH9DVWTIPEb8AQ59wcjhVw==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\205-同构字符串\\205-同构字符串.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\205-同构字符串\\205-同构字符串.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

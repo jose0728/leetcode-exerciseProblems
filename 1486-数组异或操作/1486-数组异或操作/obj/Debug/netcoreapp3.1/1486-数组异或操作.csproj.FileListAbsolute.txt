@@ -22,3 +22,16 @@ G:\github\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操
 G:\github\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\obj\Debug\netcoreapp3.1\1486-数组异或操作.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\obj\Debug\netcoreapp3.1\1486-数组异或操作.dll
 G:\github\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\obj\Debug\netcoreapp3.1\1486-数组异或操作.pdb
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\bin\Debug\netcoreapp3.1\1486-数组异或操作.exe
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\bin\Debug\netcoreapp3.1\1486-数组异或操作.deps.json
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\bin\Debug\netcoreapp3.1\1486-数组异或操作.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\bin\Debug\netcoreapp3.1\1486-数组异或操作.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\bin\Debug\netcoreapp3.1\1486-数组异或操作.dll
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\bin\Debug\netcoreapp3.1\1486-数组异或操作.pdb
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\obj\Debug\netcoreapp3.1\1486-数组异或操作.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\obj\Debug\netcoreapp3.1\1486-数组异或操作.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\obj\Debug\netcoreapp3.1\1486-数组异或操作.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\obj\Debug\netcoreapp3.1\1486-数组异或操作.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\obj\Debug\netcoreapp3.1\1486-数组异或操作.dll
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\obj\Debug\netcoreapp3.1\1486-数组异或操作.pdb
+F:\code2\code2\leetcode-exerciseProblems\1486-数组异或操作\1486-数组异或操作\obj\Debug\netcoreapp3.1\1486-数组异或操作.genruntimeconfig.cache

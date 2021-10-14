@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\Sunday匹配\bin\Debug\Sunday匹配.exe
 G:\github\leetcode-exerciseProblems\Sunday匹配\bin\Debug\Sunday匹配.pdb
 G:\github\leetcode-exerciseProblems\Sunday匹配\obj\Debug\Sunday匹配.exe
 G:\github\leetcode-exerciseProblems\Sunday匹配\obj\Debug\Sunday匹配.pdb
+F:\code2\code2\leetcode-exerciseProblems\Sunday匹配\bin\Debug\Sunday匹配.exe.config
+F:\code2\code2\leetcode-exerciseProblems\Sunday匹配\bin\Debug\Sunday匹配.exe
+F:\code2\code2\leetcode-exerciseProblems\Sunday匹配\bin\Debug\Sunday匹配.pdb
+F:\code2\code2\leetcode-exerciseProblems\Sunday匹配\obj\Debug\Sunday匹配.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\Sunday匹配\obj\Debug\Sunday匹配.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\Sunday匹配\obj\Debug\Sunday匹配.exe
+F:\code2\code2\leetcode-exerciseProblems\Sunday匹配\obj\Debug\Sunday匹配.pdb

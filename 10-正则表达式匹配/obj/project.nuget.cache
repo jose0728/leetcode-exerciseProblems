@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c1FWGklgE+MUOVFKlP3NBLaguvZTsJ4q2+x4E3t05a5r2hK9uI+sgkfNruJmNAUo3RWAR0CJMwLqyQCk1slrlg==",
+  "dgSpecHash": "l71f8dgMKeojgHPf8IR88kq4QmFNUY/YRse+NuD3Mg1WPY2KOAVyL2p9YsU1JdExgm72afBCmkZCPZ6tp69y8A==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\10-正则表达式匹配\\10-正则表达式匹配.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\10-正则表达式匹配\\10-正则表达式匹配.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

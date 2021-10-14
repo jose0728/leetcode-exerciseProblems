@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae9a1b43-1c58-415c-b4a7-9a30c8b455f8": {
+      "ProjectGuid": "ae9a1b43-1c58-415c-b4a7-9a30c8b455f8",
+      "DisplayName": "118-杨辉三角",
+      "ColorIndex": 0
+    },
+    "ea029ece-7923-4526-9f54-71055f7e157e": {
+      "ProjectGuid": "ea029ece-7923-4526-9f54-71055f7e157e",
+      "DisplayName": "12-整数转罗马数字",
+      "ColorIndex": 1
+    },
+    "fed5cf8e-5cc3-41eb-bc5c-7afccef18a71": {
+      "ProjectGuid": "fed5cf8e-5cc3-41eb-bc5c-7afccef18a71",
+      "DisplayName": "13-罗马数字转整数",
+      "ColorIndex": 2
+    },
+    "075b1497-ff9b-41de-b055-3d5ec4514798": {
+      "ProjectGuid": "075b1497-ff9b-41de-b055-3d5ec4514798",
+      "DisplayName": "172-阶乘后的零",
+      "ColorIndex": 3
+    },
+    "29c11ab1-19da-4e85-9fe0-913513cede8f": {
+      "ProjectGuid": "29c11ab1-19da-4e85-9fe0-913513cede8f",
+      "DisplayName": "292-Nim游戏",
+      "ColorIndex": 4
+    },
+    "3f57c1e2-bf59-43c6-b0aa-f82291162988": {
+      "ProjectGuid": "3f57c1e2-bf59-43c6-b0aa-f82291162988",
+      "DisplayName": "299-猜数字游戏",
+      "ColorIndex": 5
+    },
+    "ea07a172-fbe4-47e5-bdae-12a570de8303": {
+      "ProjectGuid": "ea07a172-fbe4-47e5-bdae-12a570de8303",
+      "DisplayName": "319-灯泡开关",
+      "ColorIndex": 6
+    },
+    "3ee64ec3-65f9-4811-891c-f9060938e06c": {
+      "ProjectGuid": "3ee64ec3-65f9-4811-891c-f9060938e06c",
+      "DisplayName": "67-二进制求和",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "bd67e1d3-b75c-416b-8734-c8fdbbb71224": {
+      "ProjectGuid": "bd67e1d3-b75c-416b-8734-c8fdbbb71224",
+      "DisplayName": "20-有效的括号",
+      "ColorIndex": 8
+    },
+    "caf34ea2-6d5a-49f4-9639-c753321f1911": {
+      "ProjectGuid": "caf34ea2-6d5a-49f4-9639-c753321f1911",
+      "DisplayName": "1033-移动石子直到连续",
+      "ColorIndex": 9
+    },
+    "9947f816-0e91-4fe5-84b4-6402c3505af3": {
+      "ProjectGuid": "9947f816-0e91-4fe5-84b4-6402c3505af3",
+      "DisplayName": "171-Excel表列序号",
+      "ColorIndex": 10
+    },
+    "840c1dd9-a03d-45ea-9c72-9b980fde16f1": {
+      "ProjectGuid": "840c1dd9-a03d-45ea-9c72-9b980fde16f1",
+      "DisplayName": "204-计数质数",
+      "ColorIndex": 11
+    },
+    "b64ba02f-d21c-40a1-a3f9-3c7dbbc209b2": {
+      "ProjectGuid": "b64ba02f-d21c-40a1-a3f9-3c7dbbc209b2",
+      "DisplayName": "最小的k个数",
+      "ColorIndex": 12
+    },
+    "caacc346-6def-4bfd-b8ea-cddd533f0819": {
+      "ProjectGuid": "caacc346-6def-4bfd-b8ea-cddd533f0819",
+      "DisplayName": "8-字符串转换为整数",
+      "ColorIndex": 13
+    },
+    "ab1cdc89-6d6c-45e7-926e-7a2c0e87505f": {
+      "ProjectGuid": "ab1cdc89-6d6c-45e7-926e-7a2c0e87505f",
+      "DisplayName": "其它",
+      "ColorIndex": 14
+    },
+    "8badd657-41ac-4c4a-a105-728d76b471be": {
+      "ProjectGuid": "8badd657-41ac-4c4a-a105-728d76b471be",
+      "DisplayName": "博弈论-生男生女问题",
+      "ColorIndex": 15
+    },
+    "e748572c-8101-4e29-b4c4-20b441679344": {
+      "ProjectGuid": "e748572c-8101-4e29-b4c4-20b441679344",
+      "DisplayName": "全排列",
+      "ColorIndex": 0
+    },
+    "60fb938a-0e69-47f7-9bc0-1c479ed63fb6": {
+      "ProjectGuid": "60fb938a-0e69-47f7-9bc0-1c479ed63fb6",
+      "DisplayName": "扑克牌中的顺子",
+      "ColorIndex": 1
+    },
+    "957e7092-5c1f-45f7-a96f-14fde062fa0a": {
+      "ProjectGuid": "957e7092-5c1f-45f7-a96f-14fde062fa0a",
+      "DisplayName": "镜面反射",
+      "ColorIndex": 2
+    },
+    "eb77b083-549a-4b7c-aa5f-a8d63fa1dac2": {
+      "ProjectGuid": "eb77b083-549a-4b7c-aa5f-a8d63fa1dac2",
+      "DisplayName": "荷兰国旗问题",
+      "ColorIndex": 3
+    },
+    "e0765926-1a47-4d9a-87e5-864096c2f4c4": {
+      "ProjectGuid": "e0765926-1a47-4d9a-87e5-864096c2f4c4",
+      "DisplayName": "4-寻找两个正序数组的中位数",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

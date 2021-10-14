@@ -36,3 +36,16 @@ F:\code2\code2\testdemo\leetcode-exerciseProblems\151-翻转字符串里的单�
 F:\code2\code2\testdemo\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\obj\Debug\netcoreapp3.1\151-翻转字符串里的单词.dll
 F:\code2\code2\testdemo\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\obj\Debug\netcoreapp3.1\151-翻转字符串里的单词.pdb
 F:\code2\code2\testdemo\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\obj\Debug\netcoreapp3.1\151-翻转字符串里的单词.genruntimeconfig.cache
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\bin\Debug\netcoreapp3.1\151-翻转字符串里的单词.exe
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\bin\Debug\netcoreapp3.1\151-翻转字符串里的单词.deps.json
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\bin\Debug\netcoreapp3.1\151-翻转字符串里的单词.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\bin\Debug\netcoreapp3.1\151-翻转字符串里的单词.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\bin\Debug\netcoreapp3.1\151-翻转字符串里的单词.dll
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\bin\Debug\netcoreapp3.1\151-翻转字符串里的单词.pdb
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\obj\Debug\netcoreapp3.1\151-翻转字符串里的单词.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\obj\Debug\netcoreapp3.1\151-翻转字符串里的单词.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\obj\Debug\netcoreapp3.1\151-翻转字符串里的单词.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\obj\Debug\netcoreapp3.1\151-翻转字符串里的单词.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\obj\Debug\netcoreapp3.1\151-翻转字符串里的单词.dll
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\obj\Debug\netcoreapp3.1\151-翻转字符串里的单词.pdb
+F:\code2\code2\leetcode-exerciseProblems\151-翻转字符串里的单词\151-翻转字符串里的单词\obj\Debug\netcoreapp3.1\151-翻转字符串里的单词.genruntimeconfig.cache

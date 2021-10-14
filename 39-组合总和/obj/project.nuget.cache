@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HL33XoDS5KO6G1oISUjmTpzlri0EMDOs08CCvVG2DU/F6GtRn5OiXM4m5MroZxReHpcSJFmQtz09/9KvMvZt+g==",
+  "dgSpecHash": "jilg3QCKm0aBtjZEWEby+GfIXhUOtgfvoZKobf8P6eEF54NmR7EsUIBCBuyB+uhm8AbJ0C1uNIOFGpR8QRD1Fg==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\39-组合总和\\39-组合总和.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\39-组合总和\\39-组合总和.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

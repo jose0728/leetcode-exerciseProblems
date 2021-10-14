@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\买卖股票的最佳时机\bin\Debug\买卖
 G:\github\leetcode-exerciseProblems\买卖股票的最佳时机\bin\Debug\买卖股票的最佳时机.pdb
 G:\github\leetcode-exerciseProblems\买卖股票的最佳时机\obj\Debug\买卖股票的最佳时机.exe
 G:\github\leetcode-exerciseProblems\买卖股票的最佳时机\obj\Debug\买卖股票的最佳时机.pdb
+F:\code2\code2\leetcode-exerciseProblems\买卖股票的最佳时机\bin\Debug\买卖股票的最佳时机.exe.config
+F:\code2\code2\leetcode-exerciseProblems\买卖股票的最佳时机\bin\Debug\买卖股票的最佳时机.exe
+F:\code2\code2\leetcode-exerciseProblems\买卖股票的最佳时机\bin\Debug\买卖股票的最佳时机.pdb
+F:\code2\code2\leetcode-exerciseProblems\买卖股票的最佳时机\obj\Debug\买卖股票的最佳时机.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\买卖股票的最佳时机\obj\Debug\买卖股票的最佳时机.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\买卖股票的最佳时机\obj\Debug\买卖股票的最佳时机.exe
+F:\code2\code2\leetcode-exerciseProblems\买卖股票的最佳时机\obj\Debug\买卖股票的最佳时机.pdb

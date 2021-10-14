@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\141-环形链表\bin\Debug\_141_环形链表
 G:\github\leetcode-exerciseProblems\141-环形链表\bin\Debug\_141_环形链表.pdb
 G:\github\leetcode-exerciseProblems\141-环形链表\obj\Debug\_141_环形链表.exe
 G:\github\leetcode-exerciseProblems\141-环形链表\obj\Debug\_141_环形链表.pdb
+F:\code2\code2\leetcode-exerciseProblems\141-环形链表\bin\Debug\_141_环形链表.exe.config
+F:\code2\code2\leetcode-exerciseProblems\141-环形链表\bin\Debug\_141_环形链表.exe
+F:\code2\code2\leetcode-exerciseProblems\141-环形链表\bin\Debug\_141_环形链表.pdb
+F:\code2\code2\leetcode-exerciseProblems\141-环形链表\obj\Debug\141_环形链表.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\141-环形链表\obj\Debug\141_环形链表.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\141-环形链表\obj\Debug\_141_环形链表.exe
+F:\code2\code2\leetcode-exerciseProblems\141-环形链表\obj\Debug\_141_环形链表.pdb

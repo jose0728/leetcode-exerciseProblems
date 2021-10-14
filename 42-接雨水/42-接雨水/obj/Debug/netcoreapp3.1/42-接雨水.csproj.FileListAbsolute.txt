@@ -22,3 +22,16 @@ G:\github\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcorea
 G:\github\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcoreapp3.1\42-接雨水.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcoreapp3.1\42-接雨水.dll
 G:\github\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcoreapp3.1\42-接雨水.pdb
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\bin\Debug\netcoreapp3.1\42-接雨水.exe
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\bin\Debug\netcoreapp3.1\42-接雨水.deps.json
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\bin\Debug\netcoreapp3.1\42-接雨水.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\bin\Debug\netcoreapp3.1\42-接雨水.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\bin\Debug\netcoreapp3.1\42-接雨水.dll
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\bin\Debug\netcoreapp3.1\42-接雨水.pdb
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcoreapp3.1\42-接雨水.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcoreapp3.1\42-接雨水.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcoreapp3.1\42-接雨水.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcoreapp3.1\42-接雨水.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcoreapp3.1\42-接雨水.dll
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcoreapp3.1\42-接雨水.pdb
+F:\code2\code2\leetcode-exerciseProblems\42-接雨水\42-接雨水\obj\Debug\netcoreapp3.1\42-接雨水.genruntimeconfig.cache

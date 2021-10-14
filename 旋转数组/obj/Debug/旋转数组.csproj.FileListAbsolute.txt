@@ -10,3 +10,10 @@ G:\github\leetcode-exerciseProblems\旋转数组\bin\Debug\旋转数组.pdb
 G:\github\leetcode-exerciseProblems\旋转数组\obj\Debug\旋转数组.csprojAssemblyReference.cache
 G:\github\leetcode-exerciseProblems\旋转数组\obj\Debug\旋转数组.exe
 G:\github\leetcode-exerciseProblems\旋转数组\obj\Debug\旋转数组.pdb
+F:\code2\code2\leetcode-exerciseProblems\旋转数组\bin\Debug\旋转数组.exe.config
+F:\code2\code2\leetcode-exerciseProblems\旋转数组\bin\Debug\旋转数组.exe
+F:\code2\code2\leetcode-exerciseProblems\旋转数组\bin\Debug\旋转数组.pdb
+F:\code2\code2\leetcode-exerciseProblems\旋转数组\obj\Debug\旋转数组.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\旋转数组\obj\Debug\旋转数组.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\旋转数组\obj\Debug\旋转数组.exe
+F:\code2\code2\leetcode-exerciseProblems\旋转数组\obj\Debug\旋转数组.pdb

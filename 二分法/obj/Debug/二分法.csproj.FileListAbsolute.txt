@@ -15,3 +15,10 @@ F:\code2\testdemo\leetcode-exerciseProblems\二分法\obj\Debug\二分法.csproj
 F:\code2\testdemo\leetcode-exerciseProblems\二分法\obj\Debug\二分法.csproj.CoreCompileInputs.cache
 F:\code2\testdemo\leetcode-exerciseProblems\二分法\obj\Debug\二分法.exe
 F:\code2\testdemo\leetcode-exerciseProblems\二分法\obj\Debug\二分法.pdb
+F:\code2\code2\leetcode-exerciseProblems\二分法\bin\Debug\二分法.exe.config
+F:\code2\code2\leetcode-exerciseProblems\二分法\bin\Debug\二分法.exe
+F:\code2\code2\leetcode-exerciseProblems\二分法\bin\Debug\二分法.pdb
+F:\code2\code2\leetcode-exerciseProblems\二分法\obj\Debug\二分法.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\二分法\obj\Debug\二分法.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\二分法\obj\Debug\二分法.exe
+F:\code2\code2\leetcode-exerciseProblems\二分法\obj\Debug\二分法.pdb

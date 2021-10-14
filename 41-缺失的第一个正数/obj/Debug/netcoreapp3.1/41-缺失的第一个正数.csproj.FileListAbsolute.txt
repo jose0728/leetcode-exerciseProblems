@@ -22,3 +22,16 @@ G:\github\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcor
 G:\github\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcoreapp3.1\41-缺失的第一个正数.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcoreapp3.1\41-缺失的第一个正数.dll
 G:\github\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcoreapp3.1\41-缺失的第一个正数.pdb
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\bin\Debug\netcoreapp3.1\41-缺失的第一个正数.exe
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\bin\Debug\netcoreapp3.1\41-缺失的第一个正数.deps.json
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\bin\Debug\netcoreapp3.1\41-缺失的第一个正数.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\bin\Debug\netcoreapp3.1\41-缺失的第一个正数.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\bin\Debug\netcoreapp3.1\41-缺失的第一个正数.dll
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\bin\Debug\netcoreapp3.1\41-缺失的第一个正数.pdb
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcoreapp3.1\41-缺失的第一个正数.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcoreapp3.1\41-缺失的第一个正数.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcoreapp3.1\41-缺失的第一个正数.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcoreapp3.1\41-缺失的第一个正数.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcoreapp3.1\41-缺失的第一个正数.dll
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcoreapp3.1\41-缺失的第一个正数.pdb
+F:\code2\code2\leetcode-exerciseProblems\41-缺失的第一个正数\obj\Debug\netcoreapp3.1\41-缺失的第一个正数.genruntimeconfig.cache

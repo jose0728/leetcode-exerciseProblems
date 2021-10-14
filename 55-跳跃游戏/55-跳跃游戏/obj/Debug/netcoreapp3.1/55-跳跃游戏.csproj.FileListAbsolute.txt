@@ -35,3 +35,16 @@ F:\code2\testdemo\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\
 F:\code2\testdemo\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\Debug\netcoreapp3.1\55-跳跃游戏.dll
 F:\code2\testdemo\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\Debug\netcoreapp3.1\55-跳跃游戏.pdb
 F:\code2\testdemo\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\Debug\netcoreapp3.1\55-跳跃游戏.genruntimeconfig.cache
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\bin\Debug\netcoreapp3.1\55-跳跃游戏.exe
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\bin\Debug\netcoreapp3.1\55-跳跃游戏.deps.json
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\bin\Debug\netcoreapp3.1\55-跳跃游戏.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\bin\Debug\netcoreapp3.1\55-跳跃游戏.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\bin\Debug\netcoreapp3.1\55-跳跃游戏.dll
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\bin\Debug\netcoreapp3.1\55-跳跃游戏.pdb
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\Debug\netcoreapp3.1\55-跳跃游戏.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\Debug\netcoreapp3.1\55-跳跃游戏.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\Debug\netcoreapp3.1\55-跳跃游戏.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\Debug\netcoreapp3.1\55-跳跃游戏.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\Debug\netcoreapp3.1\55-跳跃游戏.dll
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\Debug\netcoreapp3.1\55-跳跃游戏.pdb
+F:\code2\code2\leetcode-exerciseProblems\55-跳跃游戏\55-跳跃游戏\obj\Debug\netcoreapp3.1\55-跳跃游戏.genruntimeconfig.cache

@@ -22,3 +22,16 @@ G:\github\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204
 G:\github\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204-计数质数.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204-计数质数.dll
 G:\github\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204-计数质数.pdb
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\bin\Debug\netcoreapp3.1\204-计数质数.exe
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\bin\Debug\netcoreapp3.1\204-计数质数.deps.json
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\bin\Debug\netcoreapp3.1\204-计数质数.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\bin\Debug\netcoreapp3.1\204-计数质数.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\bin\Debug\netcoreapp3.1\204-计数质数.dll
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\bin\Debug\netcoreapp3.1\204-计数质数.pdb
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204-计数质数.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204-计数质数.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204-计数质数.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204-计数质数.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204-计数质数.dll
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204-计数质数.pdb
+F:\code2\code2\leetcode-exerciseProblems\204-计数质数\obj\Debug\netcoreapp3.1\204-计数质数.genruntimeconfig.cache

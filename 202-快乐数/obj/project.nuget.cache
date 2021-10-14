@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4zJAkox0ECtjApSE+XWykAfDK0q8xf1oPQQqw/9lmSI1fsOPrxurEx1wfC6WBFrCpMMw9Jj+XTZwUf3xTJlqNg==",
+  "dgSpecHash": "DX4NfJppbhNSy0RmN4VM1nmwMCXuEDAiQ4EHhiqjMMVvMiqFY76vO/K3tFUwDkei0qDvYnsDCBcruCQqz7/pZg==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\202-快乐数\\202-快乐数.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\202-快乐数\\202-快乐数.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

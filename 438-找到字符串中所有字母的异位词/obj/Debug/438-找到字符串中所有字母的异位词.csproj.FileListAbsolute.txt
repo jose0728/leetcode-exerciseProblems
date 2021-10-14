@@ -8,3 +8,11 @@ G:\github\leetcode-exerciseProblems\438-找到字符串中所有字母的异位�
 G:\github\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\bin\Debug\438-找到字符串中所有字母的异位词.pdb
 G:\github\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.exe
 G:\github\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.pdb
+F:\code2\code2\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\bin\Debug\438-找到字符串中所有字母的异位词.exe.config
+F:\code2\code2\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\bin\Debug\438-找到字符串中所有字母的异位词.exe
+F:\code2\code2\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\bin\Debug\438-找到字符串中所有字母的异位词.pdb
+F:\code2\code2\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.exe
+F:\code2\code2\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.pdb
+F:\code2\code2\leetcode-exerciseProblems\438-找到字符串中所有字母的异位词\obj\Debug\438-找到字符串中所有字母的异位词.csproj.AssemblyReference.cache

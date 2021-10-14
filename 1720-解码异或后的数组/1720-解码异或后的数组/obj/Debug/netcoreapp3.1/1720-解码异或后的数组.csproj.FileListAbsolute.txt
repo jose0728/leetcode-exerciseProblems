@@ -22,3 +22,16 @@ G:\github\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异
 G:\github\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\obj\Debug\netcoreapp3.1\1720-解码异或后的数组.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\obj\Debug\netcoreapp3.1\1720-解码异或后的数组.dll
 G:\github\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\obj\Debug\netcoreapp3.1\1720-解码异或后的数组.pdb
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\bin\Debug\netcoreapp3.1\1720-解码异或后的数组.exe
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\bin\Debug\netcoreapp3.1\1720-解码异或后的数组.deps.json
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\bin\Debug\netcoreapp3.1\1720-解码异或后的数组.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\bin\Debug\netcoreapp3.1\1720-解码异或后的数组.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\bin\Debug\netcoreapp3.1\1720-解码异或后的数组.dll
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\bin\Debug\netcoreapp3.1\1720-解码异或后的数组.pdb
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\obj\Debug\netcoreapp3.1\1720-解码异或后的数组.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\obj\Debug\netcoreapp3.1\1720-解码异或后的数组.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\obj\Debug\netcoreapp3.1\1720-解码异或后的数组.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\obj\Debug\netcoreapp3.1\1720-解码异或后的数组.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\obj\Debug\netcoreapp3.1\1720-解码异或后的数组.dll
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\obj\Debug\netcoreapp3.1\1720-解码异或后的数组.pdb
+F:\code2\code2\leetcode-exerciseProblems\1720-解码异或后的数组\1720-解码异或后的数组\obj\Debug\netcoreapp3.1\1720-解码异或后的数组.genruntimeconfig.cache

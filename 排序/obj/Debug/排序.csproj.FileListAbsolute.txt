@@ -3,3 +3,11 @@ G:\github\leetcode-exerciseProblems\排序\bin\Debug\排序.exe
 G:\github\leetcode-exerciseProblems\排序\bin\Debug\排序.pdb
 G:\github\leetcode-exerciseProblems\排序\obj\Debug\排序.exe
 G:\github\leetcode-exerciseProblems\排序\obj\Debug\排序.pdb
+F:\code2\code2\leetcode-exerciseProblems\排序\bin\Debug\排序.exe.config
+F:\code2\code2\leetcode-exerciseProblems\排序\bin\Debug\排序.exe
+F:\code2\code2\leetcode-exerciseProblems\排序\bin\Debug\排序.pdb
+F:\code2\code2\leetcode-exerciseProblems\排序\obj\Debug\排序.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\排序\obj\Debug\排序.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\排序\obj\Debug\排序.exe
+F:\code2\code2\leetcode-exerciseProblems\排序\obj\Debug\排序.pdb
+F:\code2\code2\leetcode-exerciseProblems\排序\obj\Debug\排序.csproj.AssemblyReference.cache

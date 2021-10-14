@@ -15,3 +15,10 @@ F:\code2\code2\testdemo\leetcode-exerciseProblems\66-加一\obj\Debug\66-加一.
 F:\code2\code2\testdemo\leetcode-exerciseProblems\66-加一\obj\Debug\66-加一.csproj.CoreCompileInputs.cache
 F:\code2\code2\testdemo\leetcode-exerciseProblems\66-加一\obj\Debug\66-加一.exe
 F:\code2\code2\testdemo\leetcode-exerciseProblems\66-加一\obj\Debug\66-加一.pdb
+F:\code2\code2\leetcode-exerciseProblems\66-加一\bin\Debug\66-加一.exe.config
+F:\code2\code2\leetcode-exerciseProblems\66-加一\bin\Debug\66-加一.exe
+F:\code2\code2\leetcode-exerciseProblems\66-加一\bin\Debug\66-加一.pdb
+F:\code2\code2\leetcode-exerciseProblems\66-加一\obj\Debug\66-加一.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\66-加一\obj\Debug\66-加一.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\66-加一\obj\Debug\66-加一.exe
+F:\code2\code2\leetcode-exerciseProblems\66-加一\obj\Debug\66-加一.pdb

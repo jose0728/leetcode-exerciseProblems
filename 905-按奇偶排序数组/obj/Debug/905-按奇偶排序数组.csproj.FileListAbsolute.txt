@@ -8,3 +8,11 @@ G:\github\leetcode-exerciseProblems\905-按奇偶排序数组\bin\Debug\905-按�
 G:\github\leetcode-exerciseProblems\905-按奇偶排序数组\bin\Debug\905-按奇偶排序数组.pdb
 G:\github\leetcode-exerciseProblems\905-按奇偶排序数组\obj\Debug\905-按奇偶排序数组.exe
 G:\github\leetcode-exerciseProblems\905-按奇偶排序数组\obj\Debug\905-按奇偶排序数组.pdb
+F:\code2\code2\leetcode-exerciseProblems\905-按奇偶排序数组\bin\Debug\905-按奇偶排序数组.exe.config
+F:\code2\code2\leetcode-exerciseProblems\905-按奇偶排序数组\bin\Debug\905-按奇偶排序数组.exe
+F:\code2\code2\leetcode-exerciseProblems\905-按奇偶排序数组\bin\Debug\905-按奇偶排序数组.pdb
+F:\code2\code2\leetcode-exerciseProblems\905-按奇偶排序数组\obj\Debug\905-按奇偶排序数组.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\905-按奇偶排序数组\obj\Debug\905-按奇偶排序数组.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\905-按奇偶排序数组\obj\Debug\905-按奇偶排序数组.exe
+F:\code2\code2\leetcode-exerciseProblems\905-按奇偶排序数组\obj\Debug\905-按奇偶排序数组.pdb
+F:\code2\code2\leetcode-exerciseProblems\905-按奇偶排序数组\obj\Debug\905-按奇偶排序数组.csproj.AssemblyReference.cache

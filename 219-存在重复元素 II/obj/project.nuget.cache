@@ -1,14 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qbJ4cwhCJG1W4YYopu9f0XLkL1Ywc4UYA4Aa+kVPnISwHOM0xO73eXlTjxMsaJ18ZfJe16DQMrvPBP0RNkmGiA==",
+  "dgSpecHash": "hVp4kSJE1OT6FaqJJ4a6RhuJ5lcxBJbCqH+IAAPgflGim5kaGclgg1wkfyB4A0L3z4bjNLtfPaL8/LgsGA47LA==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\219-存在重复元素 II\\219-存在重复元素 II.csproj",
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\219-存在重复元素 II\\219-存在重复元素 II.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\292-Nim游戏\bin\Debug\292-Nim游戏.exe
 G:\github\leetcode-exerciseProblems\292-Nim游戏\bin\Debug\292-Nim游戏.pdb
 G:\github\leetcode-exerciseProblems\292-Nim游戏\obj\Debug\292-Nim游戏.exe
 G:\github\leetcode-exerciseProblems\292-Nim游戏\obj\Debug\292-Nim游戏.pdb
+F:\code2\code2\leetcode-exerciseProblems\292-Nim游戏\bin\Debug\292-Nim游戏.exe.config
+F:\code2\code2\leetcode-exerciseProblems\292-Nim游戏\bin\Debug\292-Nim游戏.exe
+F:\code2\code2\leetcode-exerciseProblems\292-Nim游戏\bin\Debug\292-Nim游戏.pdb
+F:\code2\code2\leetcode-exerciseProblems\292-Nim游戏\obj\Debug\292-Nim游戏.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\292-Nim游戏\obj\Debug\292-Nim游戏.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\292-Nim游戏\obj\Debug\292-Nim游戏.exe
+F:\code2\code2\leetcode-exerciseProblems\292-Nim游戏\obj\Debug\292-Nim游戏.pdb

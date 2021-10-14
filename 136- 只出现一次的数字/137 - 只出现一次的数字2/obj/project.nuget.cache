@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kwhbp2BIllBeoYGQYKsijmXOstOauU9Kuhn6X5G9wyoHvTeUoiRofQ8FqWGodb8pB02sx20bMnCerowX+yr44g==",
+  "dgSpecHash": "RkbJXKongdf0pLN4E0xg0iRbN4XHZ+5y5+SU2XdZmMvwCw7kqnOhNI0Reop0026phH9ny4EcOipnNB57sWIrtg==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\136- 只出现一次的数字\\137 - 只出现一次的数字2\\137 - 只出现一次的数字2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\136- 只出现一次的数字\\137 - 只出现一次的数字2\\137 - 只出现一次的数字2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\650-只有两个键的键盘\bin\Debug\650-�
 G:\github\leetcode-exerciseProblems\650-只有两个键的键盘\bin\Debug\650-只有两个键的键盘.pdb
 G:\github\leetcode-exerciseProblems\650-只有两个键的键盘\obj\Debug\650-只有两个键的键盘.exe
 G:\github\leetcode-exerciseProblems\650-只有两个键的键盘\obj\Debug\650-只有两个键的键盘.pdb
+F:\code2\code2\leetcode-exerciseProblems\650-只有两个键的键盘\bin\Debug\650-只有两个键的键盘.exe.config
+F:\code2\code2\leetcode-exerciseProblems\650-只有两个键的键盘\bin\Debug\650-只有两个键的键盘.exe
+F:\code2\code2\leetcode-exerciseProblems\650-只有两个键的键盘\bin\Debug\650-只有两个键的键盘.pdb
+F:\code2\code2\leetcode-exerciseProblems\650-只有两个键的键盘\obj\Debug\650-只有两个键的键盘.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\650-只有两个键的键盘\obj\Debug\650-只有两个键的键盘.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\650-只有两个键的键盘\obj\Debug\650-只有两个键的键盘.exe
+F:\code2\code2\leetcode-exerciseProblems\650-只有两个键的键盘\obj\Debug\650-只有两个键的键盘.pdb

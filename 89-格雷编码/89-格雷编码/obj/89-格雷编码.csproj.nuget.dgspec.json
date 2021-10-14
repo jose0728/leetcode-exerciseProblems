@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\89-格雷编码.csproj": {}
+    "F:\\code2\\code2\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\89-格雷编码.csproj": {}
   },
   "projects": {
-    "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\89-格雷编码.csproj": {
+    "F:\\code2\\code2\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\89-格雷编码.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\89-格雷编码.csproj",
+        "projectUniqueName": "F:\\code2\\code2\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\89-格雷编码.csproj",
         "projectName": "89-格雷编码",
-        "projectPath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\89-格雷编码.csproj",
+        "projectPath": "F:\\code2\\code2\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\89-格雷编码.csproj",
         "packagesPath": "C:\\Users\\joese\\.nuget\\packages\\",
-        "outputPath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\obj\\",
+        "outputPath": "F:\\code2\\code2\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -53,18 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.18, 3.1.18]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

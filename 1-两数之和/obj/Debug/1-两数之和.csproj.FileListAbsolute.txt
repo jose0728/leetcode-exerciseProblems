@@ -9,3 +9,10 @@ G:\github\leetcode-exerciseProblems\1-两数之和\bin\Debug\1-两数之和.pdb
 G:\github\leetcode-exerciseProblems\1-两数之和\obj\Debug\1-两数之和.exe
 G:\github\leetcode-exerciseProblems\1-两数之和\obj\Debug\1-两数之和.pdb
 G:\github\leetcode-exerciseProblems\1-两数之和\obj\Debug\1-两数之和.csprojAssemblyReference.cache
+F:\code2\code2\leetcode-exerciseProblems\1-两数之和\bin\Debug\1-两数之和.exe.config
+F:\code2\code2\leetcode-exerciseProblems\1-两数之和\bin\Debug\1-两数之和.exe
+F:\code2\code2\leetcode-exerciseProblems\1-两数之和\bin\Debug\1-两数之和.pdb
+F:\code2\code2\leetcode-exerciseProblems\1-两数之和\obj\Debug\1-两数之和.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\1-两数之和\obj\Debug\1-两数之和.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\1-两数之和\obj\Debug\1-两数之和.exe
+F:\code2\code2\leetcode-exerciseProblems\1-两数之和\obj\Debug\1-两数之和.pdb

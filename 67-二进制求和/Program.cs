@@ -6,13 +6,23 @@ namespace _67_二进制求和
 {
     class Program
     {
+        /// <summary>
+        /// 给你两个二进制字符串，返回它们的和（用二进制表示）。
+        /// 输入为 非空 字符串且只包含数字 1 和 0。
+        /// 输入: a = "11", b = "1"
+       ///  输出: "100"
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
-            var c = AddBinary2("1011", "1000");
+            var c = AddBinary("1011", "1001");
         }
 
         /// <summary>
         /// 模拟加法
+        /// 每次都拼加好的数，进位保存在一个变量里，每次相加前都要加上进位
+        /// 如果加到最后，进位还有的话，就在末尾补充一个1
+        /// 反转字符串
         /// </summary>
         /// <param name="a"></param>
         /// <param name="b"></param>

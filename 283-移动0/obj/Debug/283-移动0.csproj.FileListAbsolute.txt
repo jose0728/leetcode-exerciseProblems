@@ -16,3 +16,10 @@ F:\code2\code2\testdemo\leetcode-exerciseProblems\283-移动0\obj\Debug\283-移�
 F:\code2\code2\testdemo\leetcode-exerciseProblems\283-移动0\obj\Debug\283-移动0.csproj.CoreCompileInputs.cache
 F:\code2\code2\testdemo\leetcode-exerciseProblems\283-移动0\obj\Debug\283-移动0.exe
 F:\code2\code2\testdemo\leetcode-exerciseProblems\283-移动0\obj\Debug\283-移动0.pdb
+F:\code2\code2\leetcode-exerciseProblems\283-移动0\bin\Debug\283-移动0.exe.config
+F:\code2\code2\leetcode-exerciseProblems\283-移动0\bin\Debug\283-移动0.exe
+F:\code2\code2\leetcode-exerciseProblems\283-移动0\bin\Debug\283-移动0.pdb
+F:\code2\code2\leetcode-exerciseProblems\283-移动0\obj\Debug\283-移动0.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\283-移动0\obj\Debug\283-移动0.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\283-移动0\obj\Debug\283-移动0.exe
+F:\code2\code2\leetcode-exerciseProblems\283-移动0\obj\Debug\283-移动0.pdb

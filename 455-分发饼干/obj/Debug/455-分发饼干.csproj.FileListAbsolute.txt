@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\455-分发饼干\bin\Debug\455-分发饼干.
 G:\github\leetcode-exerciseProblems\455-分发饼干\bin\Debug\455-分发饼干.pdb
 G:\github\leetcode-exerciseProblems\455-分发饼干\obj\Debug\455-分发饼干.exe
 G:\github\leetcode-exerciseProblems\455-分发饼干\obj\Debug\455-分发饼干.pdb
+F:\code2\code2\leetcode-exerciseProblems\455-分发饼干\bin\Debug\455-分发饼干.exe.config
+F:\code2\code2\leetcode-exerciseProblems\455-分发饼干\bin\Debug\455-分发饼干.exe
+F:\code2\code2\leetcode-exerciseProblems\455-分发饼干\bin\Debug\455-分发饼干.pdb
+F:\code2\code2\leetcode-exerciseProblems\455-分发饼干\obj\Debug\455-分发饼干.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\455-分发饼干\obj\Debug\455-分发饼干.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\455-分发饼干\obj\Debug\455-分发饼干.exe
+F:\code2\code2\leetcode-exerciseProblems\455-分发饼干\obj\Debug\455-分发饼干.pdb

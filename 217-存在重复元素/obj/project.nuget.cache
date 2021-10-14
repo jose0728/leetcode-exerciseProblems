@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VV4aRheh3plW190X3O5KpEFFyfS8fz1eVgcdMug4hfz3e7gpP9zPpXOqQin2TCDjbkDoWoAjrcbs0AUMxJs7fw==",
+  "dgSpecHash": "NM9GZHv+oLr+YZsOzeLz0yJndjVZX0CYNACzqkM/xpvkQaE/NBV4f1E5rG8Nukh5lJ1KMHjYT/H/C70U2xwHYQ==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\217-存在重复元素\\217-存在重复元素.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\217-存在重复元素\\217-存在重复元素.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

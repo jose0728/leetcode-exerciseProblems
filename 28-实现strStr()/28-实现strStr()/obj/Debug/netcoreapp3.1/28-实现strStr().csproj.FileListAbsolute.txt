@@ -21,3 +21,17 @@ G:\github\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debu
 G:\github\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().dll
 G:\github\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().pdb
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\bin\Debug\netcoreapp3.1\28-实现strStr().exe
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\bin\Debug\netcoreapp3.1\28-实现strStr().deps.json
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\bin\Debug\netcoreapp3.1\28-实现strStr().runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\bin\Debug\netcoreapp3.1\28-实现strStr().runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\bin\Debug\netcoreapp3.1\28-实现strStr().dll
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\bin\Debug\netcoreapp3.1\28-实现strStr().pdb
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().csproj.AssemblyReference.cache
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().dll
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().pdb
+F:\code2\code2\leetcode-exerciseProblems\28-实现strStr()\28-实现strStr()\obj\Debug\netcoreapp3.1\28-实现strStr().genruntimeconfig.cache

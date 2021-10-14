@@ -15,3 +15,10 @@ F:\code2\testdemo\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.csproj
 F:\code2\testdemo\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.csproj.CoreCompileInputs.cache
 F:\code2\testdemo\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.exe
 F:\code2\testdemo\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.pdb
+F:\code2\code2\leetcode-exerciseProblems\二叉树\bin\Debug\二叉树.exe.config
+F:\code2\code2\leetcode-exerciseProblems\二叉树\bin\Debug\二叉树.exe
+F:\code2\code2\leetcode-exerciseProblems\二叉树\bin\Debug\二叉树.pdb
+F:\code2\code2\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.exe
+F:\code2\code2\leetcode-exerciseProblems\二叉树\obj\Debug\二叉树.pdb

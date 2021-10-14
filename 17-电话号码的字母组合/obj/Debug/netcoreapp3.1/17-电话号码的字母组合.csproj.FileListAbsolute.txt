@@ -22,3 +22,17 @@ G:\github\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\net
 G:\github\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.dll
 G:\github\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.pdb
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\bin\Debug\netcoreapp3.1\17-电话号码的字母组合.exe
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\bin\Debug\netcoreapp3.1\17-电话号码的字母组合.deps.json
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\bin\Debug\netcoreapp3.1\17-电话号码的字母组合.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\bin\Debug\netcoreapp3.1\17-电话号码的字母组合.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\bin\Debug\netcoreapp3.1\17-电话号码的字母组合.dll
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\bin\Debug\netcoreapp3.1\17-电话号码的字母组合.pdb
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.csproj.AssemblyReference.cache
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.dll
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.pdb
+F:\code2\code2\leetcode-exerciseProblems\17-电话号码的字母组合\obj\Debug\netcoreapp3.1\17-电话号码的字母组合.genruntimeconfig.cache

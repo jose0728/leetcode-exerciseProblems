@@ -8,3 +8,11 @@ G:\github\leetcode-exerciseProblems\796-旋转字符串\bin\Debug\796-旋转字�
 G:\github\leetcode-exerciseProblems\796-旋转字符串\bin\Debug\796-旋转字符串.pdb
 G:\github\leetcode-exerciseProblems\796-旋转字符串\obj\Debug\796-旋转字符串.exe
 G:\github\leetcode-exerciseProblems\796-旋转字符串\obj\Debug\796-旋转字符串.pdb
+F:\code2\code2\leetcode-exerciseProblems\796-旋转字符串\bin\Debug\796-旋转字符串.exe.config
+F:\code2\code2\leetcode-exerciseProblems\796-旋转字符串\bin\Debug\796-旋转字符串.exe
+F:\code2\code2\leetcode-exerciseProblems\796-旋转字符串\bin\Debug\796-旋转字符串.pdb
+F:\code2\code2\leetcode-exerciseProblems\796-旋转字符串\obj\Debug\796-旋转字符串.csproj.AssemblyReference.cache
+F:\code2\code2\leetcode-exerciseProblems\796-旋转字符串\obj\Debug\796-旋转字符串.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\796-旋转字符串\obj\Debug\796-旋转字符串.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\796-旋转字符串\obj\Debug\796-旋转字符串.exe
+F:\code2\code2\leetcode-exerciseProblems\796-旋转字符串\obj\Debug\796-旋转字符串.pdb

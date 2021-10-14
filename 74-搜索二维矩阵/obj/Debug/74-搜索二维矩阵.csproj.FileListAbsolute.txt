@@ -15,3 +15,10 @@ F:\code2\testdemo\leetcode-exerciseProblems\74-搜索二维矩阵\obj\Debug\74-�
 F:\code2\testdemo\leetcode-exerciseProblems\74-搜索二维矩阵\obj\Debug\74-搜索二维矩阵.csproj.CoreCompileInputs.cache
 F:\code2\testdemo\leetcode-exerciseProblems\74-搜索二维矩阵\obj\Debug\74-搜索二维矩阵.exe
 F:\code2\testdemo\leetcode-exerciseProblems\74-搜索二维矩阵\obj\Debug\74-搜索二维矩阵.pdb
+F:\code2\code2\leetcode-exerciseProblems\74-搜索二维矩阵\bin\Debug\74-搜索二维矩阵.exe.config
+F:\code2\code2\leetcode-exerciseProblems\74-搜索二维矩阵\bin\Debug\74-搜索二维矩阵.exe
+F:\code2\code2\leetcode-exerciseProblems\74-搜索二维矩阵\bin\Debug\74-搜索二维矩阵.pdb
+F:\code2\code2\leetcode-exerciseProblems\74-搜索二维矩阵\obj\Debug\74-搜索二维矩阵.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\74-搜索二维矩阵\obj\Debug\74-搜索二维矩阵.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\74-搜索二维矩阵\obj\Debug\74-搜索二维矩阵.exe
+F:\code2\code2\leetcode-exerciseProblems\74-搜索二维矩阵\obj\Debug\74-搜索二维矩阵.pdb

@@ -23,3 +23,16 @@ F:\code2\code2\testdemo\leetcode-exerciseProblems\219-存在重复元素 II\obj\
 F:\code2\code2\testdemo\leetcode-exerciseProblems\219-存在重复元素 II\obj\Debug\netcoreapp3.1\219-存在重复元素 II.dll
 F:\code2\code2\testdemo\leetcode-exerciseProblems\219-存在重复元素 II\obj\Debug\netcoreapp3.1\219-存在重复元素 II.pdb
 F:\code2\code2\testdemo\leetcode-exerciseProblems\219-存在重复元素 II\obj\Debug\netcoreapp3.1\219-存在重复元素 II.genruntimeconfig.cache
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\bin\Debug\netcoreapp3.1\219-存在重复元素 II.exe
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\bin\Debug\netcoreapp3.1\219-存在重复元素 II.deps.json
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\bin\Debug\netcoreapp3.1\219-存在重复元素 II.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\bin\Debug\netcoreapp3.1\219-存在重复元素 II.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\bin\Debug\netcoreapp3.1\219-存在重复元素 II.dll
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\bin\Debug\netcoreapp3.1\219-存在重复元素 II.pdb
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\obj\Debug\netcoreapp3.1\219-存在重复元素 II.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\obj\Debug\netcoreapp3.1\219-存在重复元素 II.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\obj\Debug\netcoreapp3.1\219-存在重复元素 II.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\obj\Debug\netcoreapp3.1\219-存在重复元素 II.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\obj\Debug\netcoreapp3.1\219-存在重复元素 II.dll
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\obj\Debug\netcoreapp3.1\219-存在重复元素 II.pdb
+F:\code2\code2\leetcode-exerciseProblems\219-存在重复元素 II\obj\Debug\netcoreapp3.1\219-存在重复元素 II.genruntimeconfig.cache

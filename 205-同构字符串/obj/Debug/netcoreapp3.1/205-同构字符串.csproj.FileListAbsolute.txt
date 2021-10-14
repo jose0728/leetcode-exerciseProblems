@@ -36,3 +36,16 @@ F:\code2\code2\testdemo\leetcode-exerciseProblems\205-同构字符串\obj\Debug\
 F:\code2\code2\testdemo\leetcode-exerciseProblems\205-同构字符串\obj\Debug\netcoreapp3.1\205-同构字符串.dll
 F:\code2\code2\testdemo\leetcode-exerciseProblems\205-同构字符串\obj\Debug\netcoreapp3.1\205-同构字符串.pdb
 F:\code2\code2\testdemo\leetcode-exerciseProblems\205-同构字符串\obj\Debug\netcoreapp3.1\205-同构字符串.genruntimeconfig.cache
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\bin\Debug\netcoreapp3.1\205-同构字符串.exe
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\bin\Debug\netcoreapp3.1\205-同构字符串.deps.json
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\bin\Debug\netcoreapp3.1\205-同构字符串.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\bin\Debug\netcoreapp3.1\205-同构字符串.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\bin\Debug\netcoreapp3.1\205-同构字符串.dll
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\bin\Debug\netcoreapp3.1\205-同构字符串.pdb
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\obj\Debug\netcoreapp3.1\205-同构字符串.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\obj\Debug\netcoreapp3.1\205-同构字符串.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\obj\Debug\netcoreapp3.1\205-同构字符串.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\obj\Debug\netcoreapp3.1\205-同构字符串.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\obj\Debug\netcoreapp3.1\205-同构字符串.dll
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\obj\Debug\netcoreapp3.1\205-同构字符串.pdb
+F:\code2\code2\leetcode-exerciseProblems\205-同构字符串\obj\Debug\netcoreapp3.1\205-同构字符串.genruntimeconfig.cache

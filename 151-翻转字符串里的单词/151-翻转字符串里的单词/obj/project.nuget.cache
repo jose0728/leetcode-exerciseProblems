@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EptmpB90UhAg1xbtWaunfTJDSkozJ5VR0WPKbsdlYs2UmDJsXYJVHW0eJWQhKKpc9Y3GCDInsLtarTH7UciKzA==",
+  "dgSpecHash": "C+p2pb2xTihgMDnGK2EdXNPPpvnNAcsZ70xabHN+ovJtCgX/trSftlbktuDEIFLHn+hdR9R4JGmxpYy6NZmt9Q==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\151-翻转字符串里的单词\\151-翻转字符串里的单词\\151-翻转字符串里的单词.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\151-翻转字符串里的单词\\151-翻转字符串里的单词\\151-翻转字符串里的单词.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

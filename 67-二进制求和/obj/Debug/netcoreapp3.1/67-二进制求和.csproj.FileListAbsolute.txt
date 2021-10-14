@@ -22,3 +22,16 @@ G:\github\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\6
 G:\github\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\67-二进制求和.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\67-二进制求和.dll
 G:\github\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\67-二进制求和.pdb
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\bin\Debug\netcoreapp3.1\67-二进制求和.exe
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\bin\Debug\netcoreapp3.1\67-二进制求和.deps.json
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\bin\Debug\netcoreapp3.1\67-二进制求和.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\bin\Debug\netcoreapp3.1\67-二进制求和.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\bin\Debug\netcoreapp3.1\67-二进制求和.dll
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\bin\Debug\netcoreapp3.1\67-二进制求和.pdb
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\67-二进制求和.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\67-二进制求和.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\67-二进制求和.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\67-二进制求和.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\67-二进制求和.dll
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\67-二进制求和.pdb
+F:\code2\code2\leetcode-exerciseProblems\67-二进制求和\obj\Debug\netcoreapp3.1\67-二进制求和.genruntimeconfig.cache

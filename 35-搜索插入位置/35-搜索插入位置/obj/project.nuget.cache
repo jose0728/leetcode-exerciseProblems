@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Nsv3tiAHbLKuvg78oYnFHTpAX6aIwuILZ6wYGn/FTW/sTA5Qzng1iL85Qt0JVVVBGeWaj6trzcU2iKbA5E/sw==",
+  "dgSpecHash": "IY4G4FlRvkEVZs1ZYsr2X8F63PWOyCx6rAk9NrPXDHnnBqiFuSFZz34XEGmETibiIL1daCS0j9lEkIQrkF2GaA==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\35-搜索插入位置\\35-搜索插入位置\\35-搜索插入位置.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\35-搜索插入位置\\35-搜索插入位置\\35-搜索插入位置.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

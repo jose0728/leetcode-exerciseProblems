@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "94EH70YHnneIdNuobGajfNN2LTUAEEqa59qLc2Uoqpxo3bGbWJh6SDEwfB3pe45pFlpmPI3Rnfx5F//wHCaE+g==",
+  "dgSpecHash": "jnTQYm1UgkDV++g43Hi9GaWOSaWzIwefoKnTmeLIthZqSzz4BXKc4C/RBsi2oV3HpXoCAGfG8WdNqMCahwHBbg==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\16-最接近的三数之和\\16-最接近的三数之和.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\16-最接近的三数之和\\16-最接近的三数之和.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

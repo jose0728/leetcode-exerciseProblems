@@ -22,3 +22,16 @@ F:\code2\testdemo\leetcode-exerciseProblems\111-二叉树的最小深度\111-二
 F:\code2\testdemo\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\obj\Debug\netcoreapp3.1\111-二叉树的最小深度.dll
 F:\code2\testdemo\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\obj\Debug\netcoreapp3.1\111-二叉树的最小深度.pdb
 F:\code2\testdemo\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\obj\Debug\netcoreapp3.1\111-二叉树的最小深度.genruntimeconfig.cache
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\bin\Debug\netcoreapp3.1\111-二叉树的最小深度.exe
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\bin\Debug\netcoreapp3.1\111-二叉树的最小深度.deps.json
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\bin\Debug\netcoreapp3.1\111-二叉树的最小深度.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\bin\Debug\netcoreapp3.1\111-二叉树的最小深度.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\bin\Debug\netcoreapp3.1\111-二叉树的最小深度.dll
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\bin\Debug\netcoreapp3.1\111-二叉树的最小深度.pdb
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\obj\Debug\netcoreapp3.1\111-二叉树的最小深度.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\obj\Debug\netcoreapp3.1\111-二叉树的最小深度.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\obj\Debug\netcoreapp3.1\111-二叉树的最小深度.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\obj\Debug\netcoreapp3.1\111-二叉树的最小深度.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\obj\Debug\netcoreapp3.1\111-二叉树的最小深度.dll
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\obj\Debug\netcoreapp3.1\111-二叉树的最小深度.pdb
+F:\code2\code2\leetcode-exerciseProblems\111-二叉树的最小深度\111-二叉树的最小深度\obj\Debug\netcoreapp3.1\111-二叉树的最小深度.genruntimeconfig.cache

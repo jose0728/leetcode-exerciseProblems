@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\1033-移动石子直到连续\bin\Debug\1033
 G:\github\leetcode-exerciseProblems\1033-移动石子直到连续\bin\Debug\1033-移动石子直到连续.pdb
 G:\github\leetcode-exerciseProblems\1033-移动石子直到连续\obj\Debug\1033-移动石子直到连续.exe
 G:\github\leetcode-exerciseProblems\1033-移动石子直到连续\obj\Debug\1033-移动石子直到连续.pdb
+F:\code2\code2\leetcode-exerciseProblems\1033-移动石子直到连续\bin\Debug\1033-移动石子直到连续.exe.config
+F:\code2\code2\leetcode-exerciseProblems\1033-移动石子直到连续\bin\Debug\1033-移动石子直到连续.exe
+F:\code2\code2\leetcode-exerciseProblems\1033-移动石子直到连续\bin\Debug\1033-移动石子直到连续.pdb
+F:\code2\code2\leetcode-exerciseProblems\1033-移动石子直到连续\obj\Debug\1033-移动石子直到连续.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\1033-移动石子直到连续\obj\Debug\1033-移动石子直到连续.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\1033-移动石子直到连续\obj\Debug\1033-移动石子直到连续.exe
+F:\code2\code2\leetcode-exerciseProblems\1033-移动石子直到连续\obj\Debug\1033-移动石子直到连续.pdb

@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\bin\De
 G:\github\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\bin\Debug\19-删除链表的倒数第n个节点.pdb
 G:\github\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\obj\Debug\19-删除链表的倒数第n个节点.exe
 G:\github\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\obj\Debug\19-删除链表的倒数第n个节点.pdb
+F:\code2\code2\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\bin\Debug\19-删除链表的倒数第n个节点.exe.config
+F:\code2\code2\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\bin\Debug\19-删除链表的倒数第n个节点.exe
+F:\code2\code2\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\bin\Debug\19-删除链表的倒数第n个节点.pdb
+F:\code2\code2\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\obj\Debug\19-删除链表的倒数第n个节点.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\obj\Debug\19-删除链表的倒数第n个节点.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\obj\Debug\19-删除链表的倒数第n个节点.exe
+F:\code2\code2\leetcode-exerciseProblems\19-删除链表的倒数第n个节点\obj\Debug\19-删除链表的倒数第n个节点.pdb

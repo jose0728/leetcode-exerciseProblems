@@ -9,3 +9,16 @@ G:\github\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netco
 G:\github\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netcoreapp3.1\237-删除链表中的节点.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netcoreapp3.1\237-删除链表中的节点.dll
 G:\github\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netcoreapp3.1\237-删除链表中的节点.pdb
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\bin\Debug\netcoreapp3.1\237-删除链表中的节点.exe
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\bin\Debug\netcoreapp3.1\237-删除链表中的节点.deps.json
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\bin\Debug\netcoreapp3.1\237-删除链表中的节点.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\bin\Debug\netcoreapp3.1\237-删除链表中的节点.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\bin\Debug\netcoreapp3.1\237-删除链表中的节点.dll
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\bin\Debug\netcoreapp3.1\237-删除链表中的节点.pdb
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netcoreapp3.1\237-删除链表中的节点.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netcoreapp3.1\237-删除链表中的节点.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netcoreapp3.1\237-删除链表中的节点.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netcoreapp3.1\237-删除链表中的节点.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netcoreapp3.1\237-删除链表中的节点.dll
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netcoreapp3.1\237-删除链表中的节点.pdb
+F:\code2\code2\leetcode-exerciseProblems\237-删除链表中的节点\obj\Debug\netcoreapp3.1\237-删除链表中的节点.genruntimeconfig.cache

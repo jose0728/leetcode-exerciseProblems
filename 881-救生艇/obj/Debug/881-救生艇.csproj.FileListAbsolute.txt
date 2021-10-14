@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\881-救生艇\bin\Debug\881-救生艇.exe
 G:\github\leetcode-exerciseProblems\881-救生艇\bin\Debug\881-救生艇.pdb
 G:\github\leetcode-exerciseProblems\881-救生艇\obj\Debug\881-救生艇.exe
 G:\github\leetcode-exerciseProblems\881-救生艇\obj\Debug\881-救生艇.pdb
+F:\code2\code2\leetcode-exerciseProblems\881-救生艇\bin\Debug\881-救生艇.exe.config
+F:\code2\code2\leetcode-exerciseProblems\881-救生艇\bin\Debug\881-救生艇.exe
+F:\code2\code2\leetcode-exerciseProblems\881-救生艇\bin\Debug\881-救生艇.pdb
+F:\code2\code2\leetcode-exerciseProblems\881-救生艇\obj\Debug\881-救生艇.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\881-救生艇\obj\Debug\881-救生艇.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\881-救生艇\obj\Debug\881-救生艇.exe
+F:\code2\code2\leetcode-exerciseProblems\881-救生艇\obj\Debug\881-救生艇.pdb

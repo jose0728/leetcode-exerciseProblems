@@ -9,3 +9,10 @@ G:\github\leetcode-exerciseProblems\70-爬楼梯\bin\Debug\70-爬楼梯.pdb
 G:\github\leetcode-exerciseProblems\70-爬楼梯\obj\Debug\70-爬楼梯.csprojAssemblyReference.cache
 G:\github\leetcode-exerciseProblems\70-爬楼梯\obj\Debug\70-爬楼梯.exe
 G:\github\leetcode-exerciseProblems\70-爬楼梯\obj\Debug\70-爬楼梯.pdb
+F:\code2\code2\leetcode-exerciseProblems\70-爬楼梯\bin\Debug\70-爬楼梯.exe.config
+F:\code2\code2\leetcode-exerciseProblems\70-爬楼梯\bin\Debug\70-爬楼梯.exe
+F:\code2\code2\leetcode-exerciseProblems\70-爬楼梯\bin\Debug\70-爬楼梯.pdb
+F:\code2\code2\leetcode-exerciseProblems\70-爬楼梯\obj\Debug\70-爬楼梯.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\70-爬楼梯\obj\Debug\70-爬楼梯.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\70-爬楼梯\obj\Debug\70-爬楼梯.exe
+F:\code2\code2\leetcode-exerciseProblems\70-爬楼梯\obj\Debug\70-爬楼梯.pdb

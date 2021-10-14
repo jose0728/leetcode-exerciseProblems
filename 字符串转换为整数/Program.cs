@@ -4,10 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 字符串转换为整数
+namespace _8_字符串转换为整数
 {
     class Program
     {
+        /// <summary>
+        /// 输入：s = "42"
+        /// 输出：42
+        /// 
+        /// 输入：s = "   -42"
+        /// 输出：-42
+        /// 
+        /// 输入：s = "4193 with words"
+        /// 输出：4193
+        /// 
+        /// 输入：s = "words and 987"
+        /// 输出：0
+        /// 
+        /// 输入：s = "-91283472332"
+        /// 输出：-2147483648
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             int a = MyAtoi(" -42");
@@ -31,6 +48,11 @@ namespace 字符串转换为整数
         假设我们的环境只能存储 32 位大小的有符号整数，那么其数值范围为 [−231,  231 − 1]。如果数值超过这个范围，请返回  INT_MAX (231 − 1) 或 INT_MIN (−231) 。
         */
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="s"></param>
+        /// <returns></returns>
         public static int MyAtoi(string s)
         {
             int index = 0;

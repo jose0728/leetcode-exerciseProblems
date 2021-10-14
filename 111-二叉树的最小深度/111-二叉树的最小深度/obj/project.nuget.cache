@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eVgaWBsnpjdtipSq7q1ARLHO3iETF6DBEZY0djov0GOxYIFL9GbmzGY9E4jFLog3FVqMPXlInU+efCEOwzTh7A==",
+  "dgSpecHash": "+cjuQ/cAPhzgQ0VX4olsaYSWTNjGZ/LMoNpPQ9NUhxgFwuRyR7sShRiY8vD/IUm8ODtkZ0fa44KyiUutcSBO8A==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\111-二叉树的最小深度\\111-二叉树的最小深度\\111-二叉树的最小深度.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\111-二叉树的最小深度\\111-二叉树的最小深度\\111-二叉树的最小深度.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

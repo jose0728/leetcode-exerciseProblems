@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LfFMK8zLaEDfo0EzhbkCeK6v9SYThfPRUaYbka9wOLZwHeGfTp7Xq1eSgCtL/9N3Uh5B2S1jbXRzx8hi7AJBoA==",
+  "dgSpecHash": "xcF/amhPnO6vfeMlUEDbOoi0YfhtIyj7F2a0ISyCsfl0OtQQCDBWZLOL6f1tLDplcEBWWQhNoX1fawQ1siuPag==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\155. 最小栈\\155. 最小栈\\155. 最小栈.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\155. 最小栈\\155. 最小栈\\155. 最小栈.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

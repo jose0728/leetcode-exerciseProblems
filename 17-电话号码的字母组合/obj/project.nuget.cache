@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JZZZ9fmOgncVjuvP4eyrEgdOLY+vqFzdUVTLmJ66VMlc9lC5e//1bEObpGaPdBRHoNS1eqRGTBlOMoYW0Rzahg==",
+  "dgSpecHash": "rKL95uD4w8KlyvA6tC1IVjbywRY6XRGL/UcEriiB2OC7mlSKMF50yMflIoxOTvFWh8olEUPvQ/ChEnZXQDEw0g==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\17-电话号码的字母组合\\17-电话号码的字母组合.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\17-电话号码的字母组合\\17-电话号码的字母组合.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

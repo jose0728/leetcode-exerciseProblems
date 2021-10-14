@@ -11,3 +11,10 @@ F:\code2\code2\testdemo\leetcode-exerciseProblems\Z字形变换\obj\Debug\6-Z字
 F:\code2\code2\testdemo\leetcode-exerciseProblems\Z字形变换\obj\Debug\6-Z字形变换.csproj.CoreCompileInputs.cache
 F:\code2\code2\testdemo\leetcode-exerciseProblems\Z字形变换\obj\Debug\6-Z字形变换.exe
 F:\code2\code2\testdemo\leetcode-exerciseProblems\Z字形变换\obj\Debug\6-Z字形变换.pdb
+F:\code2\code2\leetcode-exerciseProblems\Z字形变换\bin\Debug\6-Z字形变换.exe.config
+F:\code2\code2\leetcode-exerciseProblems\Z字形变换\bin\Debug\6-Z字形变换.exe
+F:\code2\code2\leetcode-exerciseProblems\Z字形变换\bin\Debug\6-Z字形变换.pdb
+F:\code2\code2\leetcode-exerciseProblems\Z字形变换\obj\Debug\6-Z字形变换.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\Z字形变换\obj\Debug\6-Z字形变换.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\Z字形变换\obj\Debug\6-Z字形变换.exe
+F:\code2\code2\leetcode-exerciseProblems\Z字形变换\obj\Debug\6-Z字形变换.pdb

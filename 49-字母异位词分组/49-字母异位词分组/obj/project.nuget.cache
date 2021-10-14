@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "khQSjxl5cTf6tXwV3pRNFW8lDh6Jo5OREX+HnXPUqvaxeavzPRVBu39WTKvJXVglw48tRSB5DrLTSjiFXnZAKQ==",
+  "dgSpecHash": "HH0Co4ygnCPpvlPFEe3ms0TgRQZWap/RPC6m/f+C1B5JkaGd3H2/kWETVDWIgraggxKNE2+7g4YQ3HLu1x6DYw==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\49-字母异位词分组\\49-字母异位词分组\\49-字母异位词分组.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\49-字母异位词分组\\49-字母异位词分组\\49-字母异位词分组.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

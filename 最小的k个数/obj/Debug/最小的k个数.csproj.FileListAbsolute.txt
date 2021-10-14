@@ -8,3 +8,11 @@ G:\github\leetcode-exerciseProblems\最小的k个数\bin\Debug\最小的k个数.
 G:\github\leetcode-exerciseProblems\最小的k个数\bin\Debug\最小的k个数.pdb
 G:\github\leetcode-exerciseProblems\最小的k个数\obj\Debug\最小的k个数.exe
 G:\github\leetcode-exerciseProblems\最小的k个数\obj\Debug\最小的k个数.pdb
+F:\code2\code2\leetcode-exerciseProblems\最小的k个数\bin\Debug\最小的k个数.exe.config
+F:\code2\code2\leetcode-exerciseProblems\最小的k个数\bin\Debug\最小的k个数.exe
+F:\code2\code2\leetcode-exerciseProblems\最小的k个数\bin\Debug\最小的k个数.pdb
+F:\code2\code2\leetcode-exerciseProblems\最小的k个数\obj\Debug\最小的k个数.csproj.AssemblyReference.cache
+F:\code2\code2\leetcode-exerciseProblems\最小的k个数\obj\Debug\最小的k个数.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\最小的k个数\obj\Debug\最小的k个数.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\最小的k个数\obj\Debug\最小的k个数.exe
+F:\code2\code2\leetcode-exerciseProblems\最小的k个数\obj\Debug\最小的k个数.pdb

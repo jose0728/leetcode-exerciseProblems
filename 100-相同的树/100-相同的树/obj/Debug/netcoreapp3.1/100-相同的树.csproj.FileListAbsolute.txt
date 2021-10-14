@@ -9,3 +9,16 @@ G:\github\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\
 G:\github\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\netcoreapp3.1\100-相同的树.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\netcoreapp3.1\100-相同的树.dll
 G:\github\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\netcoreapp3.1\100-相同的树.pdb
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\bin\Debug\netcoreapp3.1\100-相同的树.exe
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\bin\Debug\netcoreapp3.1\100-相同的树.deps.json
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\bin\Debug\netcoreapp3.1\100-相同的树.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\bin\Debug\netcoreapp3.1\100-相同的树.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\bin\Debug\netcoreapp3.1\100-相同的树.dll
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\bin\Debug\netcoreapp3.1\100-相同的树.pdb
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\netcoreapp3.1\100-相同的树.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\netcoreapp3.1\100-相同的树.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\netcoreapp3.1\100-相同的树.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\netcoreapp3.1\100-相同的树.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\netcoreapp3.1\100-相同的树.dll
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\netcoreapp3.1\100-相同的树.pdb
+F:\code2\code2\leetcode-exerciseProblems\100-相同的树\100-相同的树\obj\Debug\netcoreapp3.1\100-相同的树.genruntimeconfig.cache

@@ -10,3 +10,10 @@ G:\github\leetcode-exerciseProblems\48-旋转图像\bin\Debug\48-旋转图像.pd
 G:\github\leetcode-exerciseProblems\48-旋转图像\obj\Debug\48-旋转图像.csprojAssemblyReference.cache
 G:\github\leetcode-exerciseProblems\48-旋转图像\obj\Debug\48-旋转图像.exe
 G:\github\leetcode-exerciseProblems\48-旋转图像\obj\Debug\48-旋转图像.pdb
+F:\code2\code2\leetcode-exerciseProblems\48-旋转图像\bin\Debug\48-旋转图像.exe.config
+F:\code2\code2\leetcode-exerciseProblems\48-旋转图像\bin\Debug\48-旋转图像.exe
+F:\code2\code2\leetcode-exerciseProblems\48-旋转图像\bin\Debug\48-旋转图像.pdb
+F:\code2\code2\leetcode-exerciseProblems\48-旋转图像\obj\Debug\48-旋转图像.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\48-旋转图像\obj\Debug\48-旋转图像.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\48-旋转图像\obj\Debug\48-旋转图像.exe
+F:\code2\code2\leetcode-exerciseProblems\48-旋转图像\obj\Debug\48-旋转图像.pdb

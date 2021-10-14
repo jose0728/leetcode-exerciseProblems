@@ -8,3 +8,11 @@ G:\github\leetcode-exerciseProblems\387-子串中的第一个唯一字符\bin\De
 G:\github\leetcode-exerciseProblems\387-子串中的第一个唯一字符\bin\Debug\387-子串中的第一个唯一字符.pdb
 G:\github\leetcode-exerciseProblems\387-子串中的第一个唯一字符\obj\Debug\387-子串中的第一个唯一字符.exe
 G:\github\leetcode-exerciseProblems\387-子串中的第一个唯一字符\obj\Debug\387-子串中的第一个唯一字符.pdb
+F:\code2\code2\leetcode-exerciseProblems\387-子串中的第一个唯一字符\bin\Debug\387-子串中的第一个唯一字符.exe.config
+F:\code2\code2\leetcode-exerciseProblems\387-子串中的第一个唯一字符\bin\Debug\387-子串中的第一个唯一字符.exe
+F:\code2\code2\leetcode-exerciseProblems\387-子串中的第一个唯一字符\bin\Debug\387-子串中的第一个唯一字符.pdb
+F:\code2\code2\leetcode-exerciseProblems\387-子串中的第一个唯一字符\obj\Debug\387-子串中的第一个唯一字符.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\387-子串中的第一个唯一字符\obj\Debug\387-子串中的第一个唯一字符.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\387-子串中的第一个唯一字符\obj\Debug\387-子串中的第一个唯一字符.exe
+F:\code2\code2\leetcode-exerciseProblems\387-子串中的第一个唯一字符\obj\Debug\387-子串中的第一个唯一字符.pdb
+F:\code2\code2\leetcode-exerciseProblems\387-子串中的第一个唯一字符\obj\Debug\387-子串中的第一个唯一字符.csproj.AssemblyReference.cache

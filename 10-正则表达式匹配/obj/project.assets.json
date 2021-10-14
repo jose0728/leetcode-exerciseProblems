@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\10-正则表达式匹配\\10-正则表达式匹配.csproj",
+      "projectUniqueName": "F:\\code2\\code2\\leetcode-exerciseProblems\\10-正则表达式匹配\\10-正则表达式匹配.csproj",
       "projectName": "10-正则表达式匹配",
-      "projectPath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\10-正则表达式匹配\\10-正则表达式匹配.csproj",
+      "projectPath": "F:\\code2\\code2\\leetcode-exerciseProblems\\10-正则表达式匹配\\10-正则表达式匹配.csproj",
       "packagesPath": "C:\\Users\\joese\\.nuget\\packages\\",
-      "outputPath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\10-正则表达式匹配\\obj\\",
+      "outputPath": "F:\\code2\\code2\\leetcode-exerciseProblems\\10-正则表达式匹配\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -60,18 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.18, 3.1.18]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

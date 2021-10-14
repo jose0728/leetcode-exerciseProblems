@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\344-反转字符串\bin\Debug\344-反转字�
 G:\github\leetcode-exerciseProblems\344-反转字符串\bin\Debug\344-反转字符串.pdb
 G:\github\leetcode-exerciseProblems\344-反转字符串\obj\Debug\344-反转字符串.exe
 G:\github\leetcode-exerciseProblems\344-反转字符串\obj\Debug\344-反转字符串.pdb
+F:\code2\code2\leetcode-exerciseProblems\344-反转字符串\bin\Debug\344-反转字符串.exe.config
+F:\code2\code2\leetcode-exerciseProblems\344-反转字符串\bin\Debug\344-反转字符串.exe
+F:\code2\code2\leetcode-exerciseProblems\344-反转字符串\bin\Debug\344-反转字符串.pdb
+F:\code2\code2\leetcode-exerciseProblems\344-反转字符串\obj\Debug\344-反转字符串.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\344-反转字符串\obj\Debug\344-反转字符串.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\344-反转字符串\obj\Debug\344-反转字符串.exe
+F:\code2\code2\leetcode-exerciseProblems\344-反转字符串\obj\Debug\344-反转字符串.pdb

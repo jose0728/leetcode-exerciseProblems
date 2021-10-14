@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQMpCWDsfi7xEYbWilAyEQaGNpr3Qy5UVDSkkMRr/NG92nIhaTHdj1BQhaub20JecWNim9xv/5bPHWKTAE+q7Q==",
+  "dgSpecHash": "UkSbe32UiHh/to73U3PV+T9XYekieGVzhIy0tvh6W8+xr2Fio1Tr6yqeyT4Bn7gsU0+guca3f/GOaHtgf6uHQw==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\89-格雷编码.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\89-格雷编码\\89-格雷编码\\89-格雷编码.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\镜面反射\bin\Debug\镜面反射.exe
 G:\github\leetcode-exerciseProblems\镜面反射\bin\Debug\镜面反射.pdb
 G:\github\leetcode-exerciseProblems\镜面反射\obj\Debug\镜面反射.exe
 G:\github\leetcode-exerciseProblems\镜面反射\obj\Debug\镜面反射.pdb
+F:\code2\code2\leetcode-exerciseProblems\镜面反射\bin\Debug\镜面反射.exe.config
+F:\code2\code2\leetcode-exerciseProblems\镜面反射\bin\Debug\镜面反射.exe
+F:\code2\code2\leetcode-exerciseProblems\镜面反射\bin\Debug\镜面反射.pdb
+F:\code2\code2\leetcode-exerciseProblems\镜面反射\obj\Debug\镜面反射.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\镜面反射\obj\Debug\镜面反射.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\镜面反射\obj\Debug\镜面反射.exe
+F:\code2\code2\leetcode-exerciseProblems\镜面反射\obj\Debug\镜面反射.pdb

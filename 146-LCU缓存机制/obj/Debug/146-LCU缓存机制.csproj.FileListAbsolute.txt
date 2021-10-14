@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\146-LCU缓存机制\bin\Debug\146-LCU缓存�
 G:\github\leetcode-exerciseProblems\146-LCU缓存机制\bin\Debug\146-LCU缓存机制.pdb
 G:\github\leetcode-exerciseProblems\146-LCU缓存机制\obj\Debug\146-LCU缓存机制.exe
 G:\github\leetcode-exerciseProblems\146-LCU缓存机制\obj\Debug\146-LCU缓存机制.pdb
+F:\code2\code2\leetcode-exerciseProblems\146-LCU缓存机制\bin\Debug\146-LCU缓存机制.exe.config
+F:\code2\code2\leetcode-exerciseProblems\146-LCU缓存机制\bin\Debug\146-LCU缓存机制.exe
+F:\code2\code2\leetcode-exerciseProblems\146-LCU缓存机制\bin\Debug\146-LCU缓存机制.pdb
+F:\code2\code2\leetcode-exerciseProblems\146-LCU缓存机制\obj\Debug\146-LCU缓存机制.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\146-LCU缓存机制\obj\Debug\146-LCU缓存机制.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\146-LCU缓存机制\obj\Debug\146-LCU缓存机制.exe
+F:\code2\code2\leetcode-exerciseProblems\146-LCU缓存机制\obj\Debug\146-LCU缓存机制.pdb

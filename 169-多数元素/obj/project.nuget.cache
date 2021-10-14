@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xvQe5s+r4PbVY0yk3UHn73DMg/MCLAV0oGHycS3cLCUu1JZPL269m4TV5eMsdx02GPK2gSWKBT57T9rUz/RywQ==",
+  "dgSpecHash": "dV9KDCETYorsevA+YxeziueChUh9LmmvkwR8YU/mkHf68I30ntSnpEs2Q5xAhpf7+RVWs2wfSQH3itDvYvWeoA==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\169-多数元素\\169-多数元素.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\169-多数元素\\169-多数元素.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

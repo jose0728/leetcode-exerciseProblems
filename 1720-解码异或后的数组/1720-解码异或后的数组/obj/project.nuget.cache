@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DpPIyTvzicBxOF+xvpmJDUTQqXrExsDi1BS4TgdKV0rZPjL9j9+gUGvh/jUWRkNjw688pDS3JqkxrwoxylqTfg==",
+  "dgSpecHash": "If/p6G+SbAubh+YLvEcX26hXAWQ/ZJmMDiCTXJzL+I2tOU3IT9Ay0s6R3JElGPmhkq1mzIPP2+k/j03mOrMkIg==",
   "success": true,
-  "projectFilePath": "F:\\code2\\code2\\testdemo\\leetcode-exerciseProblems\\1720-解码异或后的数组\\1720-解码异或后的数组\\1720-解码异或后的数组.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\code2\\code2\\leetcode-exerciseProblems\\1720-解码异或后的数组\\1720-解码异或后的数组\\1720-解码异或后的数组.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

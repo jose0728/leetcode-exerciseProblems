@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\博弈论-生男生女问题\bin\Debug\博�
 G:\github\leetcode-exerciseProblems\博弈论-生男生女问题\bin\Debug\博弈论-生男生女问题.pdb
 G:\github\leetcode-exerciseProblems\博弈论-生男生女问题\obj\Debug\博弈论-生男生女问题.exe
 G:\github\leetcode-exerciseProblems\博弈论-生男生女问题\obj\Debug\博弈论-生男生女问题.pdb
+F:\code2\code2\leetcode-exerciseProblems\博弈论-生男生女问题\bin\Debug\博弈论-生男生女问题.exe.config
+F:\code2\code2\leetcode-exerciseProblems\博弈论-生男生女问题\bin\Debug\博弈论-生男生女问题.exe
+F:\code2\code2\leetcode-exerciseProblems\博弈论-生男生女问题\bin\Debug\博弈论-生男生女问题.pdb
+F:\code2\code2\leetcode-exerciseProblems\博弈论-生男生女问题\obj\Debug\博弈论-生男生女问题.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\博弈论-生男生女问题\obj\Debug\博弈论-生男生女问题.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\博弈论-生男生女问题\obj\Debug\博弈论-生男生女问题.exe
+F:\code2\code2\leetcode-exerciseProblems\博弈论-生男生女问题\obj\Debug\博弈论-生男生女问题.pdb

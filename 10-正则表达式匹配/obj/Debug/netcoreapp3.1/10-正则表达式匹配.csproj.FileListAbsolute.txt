@@ -22,3 +22,16 @@ G:\github\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreap
 G:\github\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreapp3.1\10-正则表达式匹配.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreapp3.1\10-正则表达式匹配.dll
 G:\github\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreapp3.1\10-正则表达式匹配.pdb
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\bin\Debug\netcoreapp3.1\10-正则表达式匹配.exe
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\bin\Debug\netcoreapp3.1\10-正则表达式匹配.deps.json
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\bin\Debug\netcoreapp3.1\10-正则表达式匹配.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\bin\Debug\netcoreapp3.1\10-正则表达式匹配.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\bin\Debug\netcoreapp3.1\10-正则表达式匹配.dll
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\bin\Debug\netcoreapp3.1\10-正则表达式匹配.pdb
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreapp3.1\10-正则表达式匹配.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreapp3.1\10-正则表达式匹配.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreapp3.1\10-正则表达式匹配.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreapp3.1\10-正则表达式匹配.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreapp3.1\10-正则表达式匹配.dll
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreapp3.1\10-正则表达式匹配.pdb
+F:\code2\code2\leetcode-exerciseProblems\10-正则表达式匹配\obj\Debug\netcoreapp3.1\10-正则表达式匹配.genruntimeconfig.cache

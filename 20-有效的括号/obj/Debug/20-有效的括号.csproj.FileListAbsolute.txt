@@ -11,3 +11,10 @@ F:\code2\code2\testdemo\leetcode-exerciseProblems\20-有效的括号\obj\Debug\2
 F:\code2\code2\testdemo\leetcode-exerciseProblems\20-有效的括号\obj\Debug\20-有效的括号.csproj.CoreCompileInputs.cache
 F:\code2\code2\testdemo\leetcode-exerciseProblems\20-有效的括号\obj\Debug\20-有效的括号.exe
 F:\code2\code2\testdemo\leetcode-exerciseProblems\20-有效的括号\obj\Debug\20-有效的括号.pdb
+F:\code2\code2\leetcode-exerciseProblems\20-有效的括号\bin\Debug\20-有效的括号.exe.config
+F:\code2\code2\leetcode-exerciseProblems\20-有效的括号\bin\Debug\20-有效的括号.exe
+F:\code2\code2\leetcode-exerciseProblems\20-有效的括号\bin\Debug\20-有效的括号.pdb
+F:\code2\code2\leetcode-exerciseProblems\20-有效的括号\obj\Debug\20-有效的括号.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\20-有效的括号\obj\Debug\20-有效的括号.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\20-有效的括号\obj\Debug\20-有效的括号.exe
+F:\code2\code2\leetcode-exerciseProblems\20-有效的括号\obj\Debug\20-有效的括号.pdb

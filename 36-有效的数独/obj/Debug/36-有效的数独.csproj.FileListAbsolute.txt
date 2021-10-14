@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\36-有效的数独\bin\Debug\36-有效的数
 G:\github\leetcode-exerciseProblems\36-有效的数独\bin\Debug\36-有效的数独.pdb
 G:\github\leetcode-exerciseProblems\36-有效的数独\obj\Debug\36-有效的数独.exe
 G:\github\leetcode-exerciseProblems\36-有效的数独\obj\Debug\36-有效的数独.pdb
+F:\code2\code2\leetcode-exerciseProblems\36-有效的数独\bin\Debug\36-有效的数独.exe.config
+F:\code2\code2\leetcode-exerciseProblems\36-有效的数独\bin\Debug\36-有效的数独.exe
+F:\code2\code2\leetcode-exerciseProblems\36-有效的数独\bin\Debug\36-有效的数独.pdb
+F:\code2\code2\leetcode-exerciseProblems\36-有效的数独\obj\Debug\36-有效的数独.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\36-有效的数独\obj\Debug\36-有效的数独.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\36-有效的数独\obj\Debug\36-有效的数独.exe
+F:\code2\code2\leetcode-exerciseProblems\36-有效的数独\obj\Debug\36-有效的数独.pdb

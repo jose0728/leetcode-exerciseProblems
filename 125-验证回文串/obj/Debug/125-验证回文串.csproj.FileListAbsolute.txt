@@ -8,3 +8,10 @@ G:\github\leetcode-exerciseProblems\125-验证回文串\bin\Debug\125-验证回�
 G:\github\leetcode-exerciseProblems\125-验证回文串\bin\Debug\125-验证回文串.pdb
 G:\github\leetcode-exerciseProblems\125-验证回文串\obj\Debug\125-验证回文串.exe
 G:\github\leetcode-exerciseProblems\125-验证回文串\obj\Debug\125-验证回文串.pdb
+F:\code2\code2\leetcode-exerciseProblems\125-验证回文串\bin\Debug\125-验证回文串.exe.config
+F:\code2\code2\leetcode-exerciseProblems\125-验证回文串\bin\Debug\125-验证回文串.exe
+F:\code2\code2\leetcode-exerciseProblems\125-验证回文串\bin\Debug\125-验证回文串.pdb
+F:\code2\code2\leetcode-exerciseProblems\125-验证回文串\obj\Debug\125-验证回文串.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\125-验证回文串\obj\Debug\125-验证回文串.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\125-验证回文串\obj\Debug\125-验证回文串.exe
+F:\code2\code2\leetcode-exerciseProblems\125-验证回文串\obj\Debug\125-验证回文串.pdb

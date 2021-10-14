@@ -36,3 +36,16 @@ F:\code2\code2\testdemo\leetcode-exerciseProblems\89-格雷编码\89-格雷编�
 F:\code2\code2\testdemo\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\obj\Debug\netcoreapp3.1\89-格雷编码.dll
 F:\code2\code2\testdemo\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\obj\Debug\netcoreapp3.1\89-格雷编码.pdb
 F:\code2\code2\testdemo\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\obj\Debug\netcoreapp3.1\89-格雷编码.genruntimeconfig.cache
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\bin\Debug\netcoreapp3.1\89-格雷编码.exe
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\bin\Debug\netcoreapp3.1\89-格雷编码.deps.json
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\bin\Debug\netcoreapp3.1\89-格雷编码.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\bin\Debug\netcoreapp3.1\89-格雷编码.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\bin\Debug\netcoreapp3.1\89-格雷编码.dll
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\bin\Debug\netcoreapp3.1\89-格雷编码.pdb
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\obj\Debug\netcoreapp3.1\89-格雷编码.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\obj\Debug\netcoreapp3.1\89-格雷编码.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\obj\Debug\netcoreapp3.1\89-格雷编码.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\obj\Debug\netcoreapp3.1\89-格雷编码.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\obj\Debug\netcoreapp3.1\89-格雷编码.dll
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\obj\Debug\netcoreapp3.1\89-格雷编码.pdb
+F:\code2\code2\leetcode-exerciseProblems\89-格雷编码\89-格雷编码\obj\Debug\netcoreapp3.1\89-格雷编码.genruntimeconfig.cache

@@ -22,3 +22,16 @@ G:\github\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.
 G:\github\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.1\171-Excel表列序号.AssemblyInfo.cs
 G:\github\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.1\171-Excel表列序号.dll
 G:\github\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.1\171-Excel表列序号.pdb
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\bin\Debug\netcoreapp3.1\171-Excel表列序号.exe
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\bin\Debug\netcoreapp3.1\171-Excel表列序号.deps.json
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\bin\Debug\netcoreapp3.1\171-Excel表列序号.runtimeconfig.json
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\bin\Debug\netcoreapp3.1\171-Excel表列序号.runtimeconfig.dev.json
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\bin\Debug\netcoreapp3.1\171-Excel表列序号.dll
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\bin\Debug\netcoreapp3.1\171-Excel表列序号.pdb
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.1\171-Excel表列序号.GeneratedMSBuildEditorConfig.editorconfig
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.1\171-Excel表列序号.AssemblyInfoInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.1\171-Excel表列序号.AssemblyInfo.cs
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.1\171-Excel表列序号.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.1\171-Excel表列序号.dll
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.1\171-Excel表列序号.pdb
+F:\code2\code2\leetcode-exerciseProblems\171-Excel表列序号\obj\Debug\netcoreapp3.1\171-Excel表列序号.genruntimeconfig.cache
