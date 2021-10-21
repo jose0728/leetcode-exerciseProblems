@@ -259,7 +259,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "排序", "排序\排序.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "扑克牌中的顺子", "扑克牌中的顺子\扑克牌中的顺子.csproj", "{60FB938A-0E69-47F7-9BC0-1C479ED63FB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "全排列", "全排列\全排列.csproj", "{E748572C-8101-4E29-B4C4-20B441679344}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46-全排列", "全排列\46-全排列.csproj", "{E748572C-8101-4E29-B4C4-20B441679344}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "三门问题", "三门问题\三门问题.csproj", "{3DC0CAAC-D140-43D7-8CD2-A7FC0E38CE05}"
 EndProject

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E748572C-8101-4E29-B4C4-20B441679344}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>全排列</RootNamespace>
-    <AssemblyName>全排列</AssemblyName>
+    <RootNamespace>_46_全排列</RootNamespace>
+    <AssemblyName>46-全排列</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
