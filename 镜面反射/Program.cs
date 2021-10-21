@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 镜面反射
+namespace _858_镜面反射
 {
     class Program
     {

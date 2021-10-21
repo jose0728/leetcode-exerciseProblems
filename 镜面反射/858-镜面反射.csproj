@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{957E7092-5C1F-45F7-A96F-14FDE062FA0A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>镜面反射</RootNamespace>
-    <AssemblyName>镜面反射</AssemblyName>
+    <RootNamespace>_858_镜面反射</RootNamespace>
+    <AssemblyName>858-镜面反射</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

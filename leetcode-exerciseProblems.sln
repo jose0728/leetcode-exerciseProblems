@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31717.71
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "动态规划和递归", "动态规划和递归", "{2A0FF2E0-3B30-4C13-8A09-DD27BB70D02E}"
 EndProject
@@ -251,7 +251,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "不同路径", "不同路�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "荷兰国旗问题", "荷兰国旗问题\荷兰国旗问题.csproj", "{EB77B083-549A-4B7C-AA5F-A8D63FA1DAC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "镜面反射", "镜面反射\镜面反射.csproj", "{957E7092-5C1F-45F7-A96F-14FDE062FA0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "858-镜面反射", "镜面反射\858-镜面反射.csproj", "{957E7092-5C1F-45F7-A96F-14FDE062FA0A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "排序", "排序", "{5B1B322C-A6E1-47AD-B6A7-A2317AD987D0}"
 EndProject
