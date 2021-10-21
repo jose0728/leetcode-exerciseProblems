@@ -32,6 +32,11 @@ namespace _46_全排列
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// 回溯法
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <returns></returns>
         public static IList<IList<int>> Permutation(int[] nums)
         {
             int len = nums.Length;
@@ -49,9 +54,7 @@ namespace _46_全排列
             return res;
         }
 
-        private static void Dfs(int[] nums, int len, int depth,
-                     IList<int> path, bool[] used,
-                     IList<IList<int>> res)
+        private static void Dfs(int[] nums, int len, int depth, IList<int> path, bool[] used, IList<IList<int>> res)
         {
             if (depth == len)
             {
