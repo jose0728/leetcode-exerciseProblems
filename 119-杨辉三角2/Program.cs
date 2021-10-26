@@ -5,13 +5,20 @@ namespace _119_杨辉三角2
 {
     class Program
     {
+        /// <summary>
+        /// 给定一个非负索引 rowIndex，返回「杨辉三角」的第 rowIndex 行。
+        /// 在「杨辉三角」中，每个数是它左上方和右上方的数的和
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             GetRow2(3);
         }
 
         /// <summary>
-        /// 只与上一行有关
+        /// 先理解题意
+        /// 再模拟找规律
+        /// 只与上一行有关，找一个list存储上一行
         /// </summary>
         /// <param name="rowIndex"></param>
         /// <returns></returns>
