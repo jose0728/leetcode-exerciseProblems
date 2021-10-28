@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{FE107E31-CB43-4252-958A-8C05B792EE81}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>旋转数组</RootNamespace>
-    <AssemblyName>旋转数组</AssemblyName>
+    <RootNamespace>_189_旋转数组</RootNamespace>
+    <AssemblyName>189-旋转数组</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
