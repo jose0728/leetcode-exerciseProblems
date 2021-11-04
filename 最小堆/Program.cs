@@ -15,9 +15,12 @@ namespace 最小堆
             heap.Enqueue(8);
             heap.Enqueue(2);
             heap.Enqueue(3);
-            heap.Enqueue(1);
+            heap.Enqueue(6);
             heap.Enqueue(5);
-
+            heap.Enqueue(7);
+            heap.Enqueue(8);
+            heap.Enqueue(1);
+            heap.Enqueue(4);
             Console.WriteLine(heap.Dequeue());
             Console.WriteLine(heap.Dequeue());
 
@@ -118,7 +121,7 @@ namespace 最小堆
 
         private void ResizeItemStore(int newSize)
         {
-            if (mCount > newSize || DEFAULT_CAPACITY <= newSize)
+            if (mCount > newSize || DEFAULT_CAPACITY > newSize)
             {
                 return;
             }
