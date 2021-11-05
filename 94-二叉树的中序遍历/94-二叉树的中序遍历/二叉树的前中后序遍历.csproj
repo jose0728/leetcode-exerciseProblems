@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_144_二叉树的前序遍历</RootNamespace>
+    <RootNamespace>二叉树的前中后序遍历</RootNamespace>
   </PropertyGroup>
 
 </Project>

@@ -20,6 +20,11 @@ namespace 二叉树
             //tree.Insert(21);
             //Tree<int> tree = new Tree<int>(1);
             //tree.Insert(2);
+
+            PreInorderTraversal(tree);
+            InorderTraversal2(tree);
+            BackInorderTraversal(tree);
+
             tree.WideOrderTree();
             int a = DepthFirstSearch(tree);
             int b = BreadFirstSearch(tree);
@@ -33,6 +38,92 @@ namespace 二叉树
             Program program = new Program();
             var j = program.MinDiffInBST(tree);
             Console.ReadKey();
+        }
+
+
+        /// <summary>
+        /// 前序遍历 迭代法
+        /// </summary>
+        /// <param name="root"></param>
+        /// <returns></returns>
+        public static IList<int> PreInorderTraversal(Tree<int> root)
+        {
+            IList<int> res = new List<int>();
+            Stack<Tree<int>> stack = new Stack<Tree<int>>();
+            while (root != null || stack.Count > 0)
+            {
+                while (root != null)
+                {
+                    res.Add(root.NodeData);
+                    stack.Push(root);
+                    root = root.LeftTree;
+                }
+
+                var cur = stack.Pop();
+                root = cur.RightTree;
+            }
+
+            return res;
+        }
+
+        /// <summary>
+        /// 中序遍历 迭代法
+        /// </summary>
+        /// <param name="root"></param>
+        /// <returns></returns>
+        public static IList<int> InorderTraversal2(Tree<int> root)
+        {
+            IList<int> res = new List<int>();
+            Stack<Tree<int>> stack = new Stack<Tree<int>>();
+            while (root != null || stack.Count > 0)
+            {
+                while (root != null)
+                {
+                    stack.Push(root);
+                    root = root.LeftTree;
+                }
+
+                root = stack.Pop();
+                res.Add(root.NodeData);
+                root = root.RightTree;
+            }
+
+            return res;
+
+        }
+
+        /// <summary>
+        /// 后序遍历 迭代法
+        /// </summary>
+        /// <param name="root"></param>
+        /// <returns></returns>
+        public static IList<int> BackInorderTraversal(Tree<int> root)
+        {
+            IList<int> res = new List<int>();
+            Stack<Tree<int>> stack = new Stack<Tree<int>>();
+            Tree<int> preNode = null;
+
+            while (root != null || stack.Count > 0)
+            {
+                while (root != null)
+                {
+                    stack.Push(root);
+                    root = root.LeftTree;
+                }
+                root = stack.Pop();
+                if (root.RightTree == null || root.RightTree == preNode)
+                {
+                    res.Add(root.NodeData);
+                    preNode = root;
+                    root = null;
+                }
+                else
+                {
+                    stack.Push(root);
+                    root = root.RightTree;
+                }
+            }
+            return res;
         }
 
         /// <summary>

@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\最大堆\最大堆.csproj">
+      <Project>{97fec0ee-0fc1-48a0-9dd7-142161d04e3c}</Project>
+      <Name>最大堆</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
