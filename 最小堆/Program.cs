@@ -148,8 +148,7 @@ namespace 最小堆
             {
                 // 找到子节点中较小的那个
                 int rightChild = leftChild + 1;
-                int bestChild = (rightChild < mCount && mComparer.Compare(mItems[rightChild], mItems[leftChild]) < 0) ?
-                    rightChild : leftChild;
+                int bestChild = (rightChild < mCount && mComparer.Compare(mItems[rightChild], mItems[leftChild]) < 0) ? rightChild : leftChild;
                 if (mComparer.Compare(mItems[bestChild], mItems[parent]) < 0)
                 {
                     // 如果子节点小于父节点, 交换子节点和父节点
