@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "动态规划和递归", "动态规划和递归", "{2A0FF2E0-3B30-4C13-8A09-DD27BB70D02E}"
 EndProject
@@ -268,6 +268,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最大堆", "最大堆\最大堆.csproj", "{97FEC0EE-0FC1-48A0-9DD7-142161D04E3C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "优先队列", "优先队列\优先队列.csproj", "{4305C56B-28AA-4D51-8246-552663C2FA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVL树的实现", "AVL树的实现\AVL树的实现.csproj", "{548656FC-F267-4D03-9C14-CE4B28DF86F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -735,6 +737,10 @@ Global
 		{4305C56B-28AA-4D51-8246-552663C2FA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4305C56B-28AA-4D51-8246-552663C2FA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4305C56B-28AA-4D51-8246-552663C2FA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548656FC-F267-4D03-9C14-CE4B28DF86F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548656FC-F267-4D03-9C14-CE4B28DF86F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548656FC-F267-4D03-9C14-CE4B28DF86F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548656FC-F267-4D03-9C14-CE4B28DF86F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -855,6 +861,7 @@ Global
 		{76AC93B6-0DDC-413A-ABCA-82569C99595A} = {30354CE6-65BD-46CA-9B80-3F2664C13438}
 		{97FEC0EE-0FC1-48A0-9DD7-142161D04E3C} = {30354CE6-65BD-46CA-9B80-3F2664C13438}
 		{4305C56B-28AA-4D51-8246-552663C2FA37} = {30354CE6-65BD-46CA-9B80-3F2664C13438}
+		{548656FC-F267-4D03-9C14-CE4B28DF86F0} = {30354CE6-65BD-46CA-9B80-3F2664C13438}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ACB3053D-4690-4830-AA8C-79DFA2E43C85}
