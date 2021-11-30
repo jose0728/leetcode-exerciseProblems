@@ -22,3 +22,4 @@ F:\code2\code2\leetcode-exerciseProblems\206-反转链表\obj\Debug\netcoreapp3.
 F:\code2\code2\leetcode-exerciseProblems\206-反转链表\obj\Debug\netcoreapp3.1\206-反转链表.dll
 F:\code2\code2\leetcode-exerciseProblems\206-反转链表\obj\Debug\netcoreapp3.1\206-反转链表.pdb
 F:\code2\code2\leetcode-exerciseProblems\206-反转链表\obj\Debug\netcoreapp3.1\206-反转链表.genruntimeconfig.cache
+F:\code2\code2\leetcode-exerciseProblems\206-反转链表\obj\Debug\netcoreapp3.1\206-反转链表.csproj.AssemblyReference.cache
