@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-最长公共前缀", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "买卖股票的最佳时机", "买卖股票的最佳时机\买卖股票的最佳时机.csproj", "{36DF64E8-BFE6-4B5D-8932-0A2C5C876024}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "原地删除", "原地删除\原地删除.csproj", "{3915149D-84BC-45FD-8280-33FBCB6FCFF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-原地删除", "原地删除\27-原地删除.csproj", "{3915149D-84BC-45FD-8280-33FBCB6FCFF7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66-加一", "66-加一\66-加一.csproj", "{5243ACAE-B3CB-427C-B02F-6F3D75BFC18A}"
 EndProject
@@ -85,11 +85,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "83-删除排序链表中的
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "位运算", "位运算", "{C8A0E31E-A2FA-47BF-B7F2-8CF63D6DED3E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "137 - 只出现一次的数字2", "136- 只出现一次的数字\137 - 只出现一次的数字2\137 - 只出现一次的数字2.csproj", "{3D5D686C-9B69-45BD-B480-FD66C30CFADB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "137-只出现一次的数字2", "136- 只出现一次的数字\137 - 只出现一次的数字2\137-只出现一次的数字2.csproj", "{3D5D686C-9B69-45BD-B480-FD66C30CFADB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "哈希思想", "哈希思想", "{DB909924-24D4-420F-B614-E3967602C386}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "136- 只出现一次的数字", "136- 只出现一次的数字\136- 只出现一次的数字\136- 只出现一次的数字.csproj", "{8A6E19CF-25C9-4A46-A4EF-562EBB1581AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "136-只出现一次的数字", "136- 只出现一次的数字\136- 只出现一次的数字\136-只出现一次的数字.csproj", "{8A6E19CF-25C9-4A46-A4EF-562EBB1581AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "栈和队列", "栈和队列", "{41D59612-CCA2-4755-9A59-93B44E393316}"
 EndProject
@@ -237,7 +237,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1033-移动石子直到连�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1323-6和9组成的最大数字", "1323-6和9组成的最大数字\1323-6和9组成的最大数字.csproj", "{7BBA60BD-5D62-45E7-AEE4-DE9AB1D448E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "不同路径", "不同路径\不同路径.csproj", "{F7D9296B-E3AA-4BD0-9584-84A1FA19A6C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62-不同路径", "不同路径\62-不同路径.csproj", "{F7D9296B-E3AA-4BD0-9584-84A1FA19A6C5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "荷兰国旗问题", "荷兰国旗问题\荷兰国旗问题.csproj", "{EB77B083-549A-4B7C-AA5F-A8D63FA1DAC2}"
 EndProject
@@ -251,11 +251,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "扑克牌中的顺子", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46-全排列", "全排列\46-全排列.csproj", "{E748572C-8101-4E29-B4C4-20B441679344}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "删除重复数组中的重复项", "删除重复数组中的重复项\删除重复数组中的重复项.csproj", "{3730D65B-A53F-4F84-9B19-D95B7C5191BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-删除重复数组中的重复项", "删除重复数组中的重复项\26-删除重复数组中的重复项.csproj", "{3730D65B-A53F-4F84-9B19-D95B7C5191BB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "两个数组的交集", "两个数组的交集\两个数组的交集.csproj", "{45742E20-3CB1-42A8-AD35-65A3F6CE6DAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "位运算", "位运算\位运算.csproj", "{A6908E4D-EA85-4160-ACD7-B56E45621DE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "连续n个数的和", "位运算\连续n个数的和.csproj", "{A6908E4D-EA85-4160-ACD7-B56E45621DE9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-字符串转换为整数", "字符串转换为整数\8-字符串转换为整数.csproj", "{CAACC346-6DEF-4BFD-B8EA-CDDD533F0819}"
 EndProject
@@ -290,6 +290,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "154-旋转排序数组中的最小值Ⅱ", "154-旋转排序数组中的最小值Ⅱ\154-旋转排序数组中的最小值Ⅱ.csproj", "{CC009D76-3E85-452E-BF8C-7F25E9BB2B71}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "475-供暖器", "475-供暖器\475-供暖器.csproj", "{2CA1F458-883E-4A13-964C-F66F21C0A7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63-不同路径2", "63-不同路径2\63-不同路径2.csproj", "{02EF3C0E-F5A6-48C0-B151-F4C7807FC52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268-缺失数字", "268-缺失数字\268-缺失数字.csproj", "{50A95808-AA4A-4B93-BF05-BE06155E58ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "191-位1的个数", "191-位1的个数\191-位1的个数.csproj", "{7CF24C29-4F3F-4DF2-9ED5-2F1CFDBF113E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "231-2的幂", "231-2的幂\231-2的幂.csproj", "{A60DE043-F7E2-499F-8CCF-313266B9FB48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -801,6 +809,22 @@ Global
 		{2CA1F458-883E-4A13-964C-F66F21C0A7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CA1F458-883E-4A13-964C-F66F21C0A7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CA1F458-883E-4A13-964C-F66F21C0A7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02EF3C0E-F5A6-48C0-B151-F4C7807FC52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EF3C0E-F5A6-48C0-B151-F4C7807FC52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EF3C0E-F5A6-48C0-B151-F4C7807FC52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EF3C0E-F5A6-48C0-B151-F4C7807FC52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A95808-AA4A-4B93-BF05-BE06155E58ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A95808-AA4A-4B93-BF05-BE06155E58ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A95808-AA4A-4B93-BF05-BE06155E58ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A95808-AA4A-4B93-BF05-BE06155E58ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF24C29-4F3F-4DF2-9ED5-2F1CFDBF113E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF24C29-4F3F-4DF2-9ED5-2F1CFDBF113E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF24C29-4F3F-4DF2-9ED5-2F1CFDBF113E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF24C29-4F3F-4DF2-9ED5-2F1CFDBF113E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60DE043-F7E2-499F-8CCF-313266B9FB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60DE043-F7E2-499F-8CCF-313266B9FB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60DE043-F7E2-499F-8CCF-313266B9FB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60DE043-F7E2-499F-8CCF-313266B9FB48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -932,6 +956,10 @@ Global
 		{8125EADE-939F-4F55-8A87-00245044DD33} = {4B016C21-2E34-4A62-9F0C-9FFD84E213C9}
 		{CC009D76-3E85-452E-BF8C-7F25E9BB2B71} = {4B016C21-2E34-4A62-9F0C-9FFD84E213C9}
 		{2CA1F458-883E-4A13-964C-F66F21C0A7FB} = {4B016C21-2E34-4A62-9F0C-9FFD84E213C9}
+		{02EF3C0E-F5A6-48C0-B151-F4C7807FC52F} = {2A0FF2E0-3B30-4C13-8A09-DD27BB70D02E}
+		{50A95808-AA4A-4B93-BF05-BE06155E58ED} = {C8A0E31E-A2FA-47BF-B7F2-8CF63D6DED3E}
+		{7CF24C29-4F3F-4DF2-9ED5-2F1CFDBF113E} = {C8A0E31E-A2FA-47BF-B7F2-8CF63D6DED3E}
+		{A60DE043-F7E2-499F-8CCF-313266B9FB48} = {C8A0E31E-A2FA-47BF-B7F2-8CF63D6DED3E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ACB3053D-4690-4830-AA8C-79DFA2E43C85}

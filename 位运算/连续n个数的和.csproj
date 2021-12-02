@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F7D9296B-E3AA-4BD0-9584-84A1FA19A6C5}</ProjectGuid>
+    <ProjectGuid>{A6908E4D-EA85-4160-ACD7-B56E45621DE9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>不同路径</RootNamespace>
-    <AssemblyName>不同路径</AssemblyName>
+    <RootNamespace>连续n个数的和</RootNamespace>
+    <AssemblyName>连续n个数的和</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

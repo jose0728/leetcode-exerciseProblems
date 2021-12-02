@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 删除重复数组中的重复项
+namespace _26_删除重复数组中的重复项
 {
     class Program
     {

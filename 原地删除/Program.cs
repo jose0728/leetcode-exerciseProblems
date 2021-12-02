@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 原地删除
+namespace _27_原地删除
 {
     class Program
     {
