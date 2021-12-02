@@ -342,7 +342,7 @@ namespace 二叉树
         }
 
         /// <summary>
-        /// 删除二叉搜索树中的节点（leetcode450题）
+        /// 删除二叉搜索树中的节点方法2（leetcode450题）
         /// </summary>
         /// <param name="root"></param>
         /// <param name="key"></param>
@@ -379,18 +379,27 @@ namespace 二叉树
                 //当前节点既有左子树又有右子树
                 else
                 {
-                    Tree<int> node = root.RightTree;
-                    //找到当前节点右子树最左边的叶子结点
-                    while (node.LeftTree != null)
-                    {
-                        node = node.LeftTree;
-                    }
-                    //将root的左子树放到root的右子树的最下面的左叶子节点的左子树上
-                    node.LeftTree = root.LeftTree;
-                    return root.RightTree;
+                    //取出右子树最小结点，并用来替换根结点
+                    var rightMinNode = SearchMin(root.RightTree);
+                    root.NodeData = rightMinNode.NodeData;
+                    root.RightTree = DeleteNode(root.RightTree, rightMinNode.NodeData);
                 }
             }
             return root;
+        }
+
+        /// <summary>
+        /// 获取二叉搜索树的最小节点
+        /// </summary>
+        /// <param name="node"></param>
+        /// <returns></returns>
+        private static Tree<int> SearchMin(Tree<int> node)
+        {
+            if (node.LeftTree != null)
+            {
+                return SearchMin(node.LeftTree);
+            }
+            return node;
         }
 
         /// <summary>

@@ -35,3 +35,4 @@ F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\D
 F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.dll
 F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.pdb
 F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.genruntimeconfig.cache
+F:\code2\code2\leetcode-exerciseProblems\118-杨辉三角\118-杨辉三角\obj\Debug\netcoreapp3.1\118-杨辉三角.csproj.AssemblyReference.cache

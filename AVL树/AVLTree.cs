@@ -23,6 +23,9 @@ namespace AVL树
             }
         }
 
+        /// <summary>
+        /// 根节点
+        /// </summary>
         private TreeNode root;
 
         /// <summary>
@@ -154,7 +157,7 @@ namespace AVL树
             //assert node != null;
             if (GetHeight(node.left) - GetHeight(node.right) == 2)
             {
-                if (GetHeight(node.left.left) > GetHeight(node.left.right))
+                if (GetHeight(node.left.left) > GetHeight(node.left.right))//判断是不是左左型
                 {
                     // 需要进行右旋转
                     return RightRotate(node);
