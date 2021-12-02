@@ -18,6 +18,7 @@ namespace 二叉树
         private T data;
         private Tree<T> left;
         private Tree<T> right;
+
         /// <summary>
         /// 构造函数：定义二叉树的根节点
         /// </summary>
@@ -28,6 +29,7 @@ namespace 二叉树
             this.left = null;
             this.right = null;
         }
+
         /// <summary>
         /// 数据节点属性
         /// </summary>
@@ -36,6 +38,7 @@ namespace 二叉树
             get { return this.data; }
             set { this.data = value; }
         }
+
         /// <summary>
         /// 左子树
         /// </summary>
@@ -44,6 +47,7 @@ namespace 二叉树
             get { return this.left; }
             set { this.left = value; }
         }
+
         /// <summary>
         /// 右子树
         /// </summary>
@@ -98,6 +102,7 @@ namespace 二叉树
                 PreOrderTree(root.RightTree);
             }
         }
+
         /// <summary>
         /// 中序遍历：左子树，根节点，右子树可以实现顺序输出
         /// </summary>
@@ -111,6 +116,7 @@ namespace 二叉树
                 InOrderTree(root.RightTree);
             }
         }
+
         /// <summary>
         /// 后序遍历：左子树，右子树，根节点
         /// </summary>
@@ -124,6 +130,7 @@ namespace 二叉树
                 Console.Write(root.NodeData);
             }
         }
+
         /// <summary>
         /// 逐层遍历：遍历思想是从根节点开始，访问一个节点然后将其左右子树的根节点依次放入链表中，然后删除该节点。
         /// 依次遍历直到链表中的元素数量为0即没有更下一层的节点出现时候为止。
