@@ -1,5 +1,0 @@
-G:\code\算法\21-环形链表\bin\Debug\_141_环形链表.exe.config
-G:\code\算法\21-环形链表\bin\Debug\_141_环形链表.exe
-G:\code\算法\21-环形链表\bin\Debug\_141_环形链表.pdb
-G:\code\算法\21-环形链表\obj\Debug\_141_环形链表.exe
-G:\code\算法\21-环形链表\obj\Debug\_141_环形链表.pdb

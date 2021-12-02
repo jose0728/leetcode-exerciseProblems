@@ -1,6 +1,0 @@
-G:\code\算法\Z字形变换\bin\Debug\Z字形变换.exe.config
-G:\code\算法\Z字形变换\bin\Debug\Z字形变换.exe
-G:\code\算法\Z字形变换\bin\Debug\Z字形变换.pdb
-G:\code\算法\Z字形变换\obj\Debug\Z字形变换.csprojAssemblyReference.cache
-G:\code\算法\Z字形变换\obj\Debug\Z字形变换.exe
-G:\code\算法\Z字形变换\obj\Debug\Z字形变换.pdb

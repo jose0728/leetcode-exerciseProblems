@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_21_合并两个有序链表</RootNamespace>
+    <RootNamespace>_2_两数相加</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

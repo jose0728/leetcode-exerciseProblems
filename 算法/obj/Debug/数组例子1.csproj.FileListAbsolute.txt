@@ -1,6 +1,0 @@
-G:\code\算法\算法\bin\Debug\算法.exe.config
-G:\code\算法\算法\bin\Debug\算法.exe
-G:\code\算法\算法\bin\Debug\算法.pdb
-G:\code\算法\算法\obj\Debug\数组例子1.csprojAssemblyReference.cache
-G:\code\算法\算法\obj\Debug\算法.exe
-G:\code\算法\算法\obj\Debug\算法.pdb

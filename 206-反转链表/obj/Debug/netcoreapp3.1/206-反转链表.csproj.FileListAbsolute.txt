@@ -1,14 +1,3 @@
-G:\github\leetcode-exerciseProblems\206-反转链表\bin\Debug\netcoreapp3.1\206-反转链表.exe
-G:\github\leetcode-exerciseProblems\206-反转链表\bin\Debug\netcoreapp3.1\206-反转链表.deps.json
-G:\github\leetcode-exerciseProblems\206-反转链表\bin\Debug\netcoreapp3.1\206-反转链表.runtimeconfig.json
-G:\github\leetcode-exerciseProblems\206-反转链表\bin\Debug\netcoreapp3.1\206-反转链表.runtimeconfig.dev.json
-G:\github\leetcode-exerciseProblems\206-反转链表\bin\Debug\netcoreapp3.1\206-反转链表.dll
-G:\github\leetcode-exerciseProblems\206-反转链表\bin\Debug\netcoreapp3.1\206-反转链表.pdb
-G:\github\leetcode-exerciseProblems\206-反转链表\obj\Debug\netcoreapp3.1\206-反转链表.csprojAssemblyReference.cache
-G:\github\leetcode-exerciseProblems\206-反转链表\obj\Debug\netcoreapp3.1\206-反转链表.AssemblyInfoInputs.cache
-G:\github\leetcode-exerciseProblems\206-反转链表\obj\Debug\netcoreapp3.1\206-反转链表.AssemblyInfo.cs
-G:\github\leetcode-exerciseProblems\206-反转链表\obj\Debug\netcoreapp3.1\206-反转链表.dll
-G:\github\leetcode-exerciseProblems\206-反转链表\obj\Debug\netcoreapp3.1\206-反转链表.pdb
 F:\code2\code2\leetcode-exerciseProblems\206-反转链表\bin\Debug\netcoreapp3.1\206-反转链表.exe
 F:\code2\code2\leetcode-exerciseProblems\206-反转链表\bin\Debug\netcoreapp3.1\206-反转链表.deps.json
 F:\code2\code2\leetcode-exerciseProblems\206-反转链表\bin\Debug\netcoreapp3.1\206-反转链表.runtimeconfig.json

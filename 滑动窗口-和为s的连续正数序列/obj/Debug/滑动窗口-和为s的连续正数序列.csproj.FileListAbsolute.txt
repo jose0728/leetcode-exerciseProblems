@@ -3,3 +3,10 @@ G:\code\算法\滑动窗口-和为s的连续正数序列\bin\Debug\滑动窗口-
 G:\code\算法\滑动窗口-和为s的连续正数序列\bin\Debug\滑动窗口-和为s的连续正数序列.pdb
 G:\code\算法\滑动窗口-和为s的连续正数序列\obj\Debug\滑动窗口-和为s的连续正数序列.exe
 G:\code\算法\滑动窗口-和为s的连续正数序列\obj\Debug\滑动窗口-和为s的连续正数序列.pdb
+F:\code2\code2\leetcode-exerciseProblems\滑动窗口-和为s的连续正数序列\bin\Debug\滑动窗口-和为s的连续正数序列.exe.config
+F:\code2\code2\leetcode-exerciseProblems\滑动窗口-和为s的连续正数序列\bin\Debug\滑动窗口-和为s的连续正数序列.exe
+F:\code2\code2\leetcode-exerciseProblems\滑动窗口-和为s的连续正数序列\bin\Debug\滑动窗口-和为s的连续正数序列.pdb
+F:\code2\code2\leetcode-exerciseProblems\滑动窗口-和为s的连续正数序列\obj\Debug\滑动窗口-和为s的连续正数序列.csproj.SuggestedBindingRedirects.cache
+F:\code2\code2\leetcode-exerciseProblems\滑动窗口-和为s的连续正数序列\obj\Debug\滑动窗口-和为s的连续正数序列.csproj.CoreCompileInputs.cache
+F:\code2\code2\leetcode-exerciseProblems\滑动窗口-和为s的连续正数序列\obj\Debug\滑动窗口-和为s的连续正数序列.exe
+F:\code2\code2\leetcode-exerciseProblems\滑动窗口-和为s的连续正数序列\obj\Debug\滑动窗口-和为s的连续正数序列.pdb

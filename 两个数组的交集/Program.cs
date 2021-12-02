@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 算法
+namespace 两个数组的交集
 {
     class Program
     {
