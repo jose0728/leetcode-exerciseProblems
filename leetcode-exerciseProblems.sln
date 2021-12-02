@@ -19,8 +19,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64-最小路径和", "64-�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "300-最大上升子序列", "300-最大上升子序列\300-最大上升子序列.csproj", "{62CA6924-E1A9-45B3-B784-D409441DE3E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二分法", "二分法\二分法.csproj", "{24BACE56-A603-48D0-9031-53D0B0E1AED1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-两数之和", "1-两数之和\1-两数之和.csproj", "{254441FA-115E-4146-8837-3AAEB21473BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "189-旋转数组", "旋转数组\189-旋转数组.csproj", "{FE107E31-CB43-4252-958A-8C05B792EE81}"
@@ -271,15 +269,27 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "优先队列", "优先队�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVL树", "AVL树\AVL树.csproj", "{D2676C35-164B-4425-83B0-762F35C5A6DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉搜索树", "二叉搜索树\二叉搜索树.csproj", "{60B2C86A-AC86-46A8-9AC3-329BAA55B6F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "二叉搜索树", "二叉搜索树\二叉搜索树.csproj", "{60B2C86A-AC86-46A8-9AC3-329BAA55B6F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "102-二叉树的层序遍历", "102-二叉树的层序遍历\102-二叉树的层序遍历.csproj", "{F0F20594-1D1F-4619-8DB9-E2B04859E648}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "102-二叉树的层序遍历", "102-二叉树的层序遍历\102-二叉树的层序遍历.csproj", "{F0F20594-1D1F-4619-8DB9-E2B04859E648}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104-二叉树的最大深度", "104-二叉树的最大深度\104-二叉树的最大深度.csproj", "{F52C19EC-116C-4AE2-9269-063E3CB47CD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "104-二叉树的最大深度", "104-二叉树的最大深度\104-二叉树的最大深度.csproj", "{F52C19EC-116C-4AE2-9269-063E3CB47CD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "110-平衡二叉树", "110-平衡二叉树\110-平衡二叉树.csproj", "{679C34E8-CD13-4FED-AD3C-95570871D2F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "110-平衡二叉树", "110-平衡二叉树\110-平衡二叉树.csproj", "{679C34E8-CD13-4FED-AD3C-95570871D2F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "222-完全二叉树的节点个数", "222-完全二叉树的节点个数\222-完全二叉树的节点个数.csproj", "{8B24CF18-1739-4894-9983-A674A550FB97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "222-完全二叉树的节点个数", "222-完全二叉树的节点个数\222-完全二叉树的节点个数.csproj", "{8B24CF18-1739-4894-9983-A674A550FB97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "875-爱吃香蕉的阿珂", "875-爱吃香蕉的阿珂\875-爱吃香蕉的阿珂.csproj", "{1C02AB10-C01C-41E1-A117-9CD498A089BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69-x的平方根", "69-x的平方根\69-x的平方根.csproj", "{AC50E35A-3DD2-4532-ABB9-2D15AAA79A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "278-第一个错误的版本", "278-第一个错误的版本\278-第一个错误的版本.csproj", "{6EAC2540-4C21-47E6-92CC-64D899534A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "153-旋转排序数组最小值Ⅰ", "153-旋转排序数组最小值Ⅰ\153-旋转排序数组最小值Ⅰ.csproj", "{8125EADE-939F-4F55-8A87-00245044DD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "154-旋转排序数组中的最小值Ⅱ", "154-旋转排序数组中的最小值Ⅱ\154-旋转排序数组中的最小值Ⅱ.csproj", "{CC009D76-3E85-452E-BF8C-7F25E9BB2B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "475-供暖器", "475-供暖器\475-供暖器.csproj", "{2CA1F458-883E-4A13-964C-F66F21C0A7FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -311,10 +321,6 @@ Global
 		{62CA6924-E1A9-45B3-B784-D409441DE3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62CA6924-E1A9-45B3-B784-D409441DE3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62CA6924-E1A9-45B3-B784-D409441DE3E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{24BACE56-A603-48D0-9031-53D0B0E1AED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24BACE56-A603-48D0-9031-53D0B0E1AED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24BACE56-A603-48D0-9031-53D0B0E1AED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24BACE56-A603-48D0-9031-53D0B0E1AED1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{254441FA-115E-4146-8837-3AAEB21473BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{254441FA-115E-4146-8837-3AAEB21473BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{254441FA-115E-4146-8837-3AAEB21473BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -771,6 +777,30 @@ Global
 		{8B24CF18-1739-4894-9983-A674A550FB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B24CF18-1739-4894-9983-A674A550FB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B24CF18-1739-4894-9983-A674A550FB97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C02AB10-C01C-41E1-A117-9CD498A089BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C02AB10-C01C-41E1-A117-9CD498A089BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C02AB10-C01C-41E1-A117-9CD498A089BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C02AB10-C01C-41E1-A117-9CD498A089BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC50E35A-3DD2-4532-ABB9-2D15AAA79A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC50E35A-3DD2-4532-ABB9-2D15AAA79A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC50E35A-3DD2-4532-ABB9-2D15AAA79A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC50E35A-3DD2-4532-ABB9-2D15AAA79A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EAC2540-4C21-47E6-92CC-64D899534A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAC2540-4C21-47E6-92CC-64D899534A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAC2540-4C21-47E6-92CC-64D899534A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAC2540-4C21-47E6-92CC-64D899534A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8125EADE-939F-4F55-8A87-00245044DD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8125EADE-939F-4F55-8A87-00245044DD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8125EADE-939F-4F55-8A87-00245044DD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8125EADE-939F-4F55-8A87-00245044DD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC009D76-3E85-452E-BF8C-7F25E9BB2B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC009D76-3E85-452E-BF8C-7F25E9BB2B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC009D76-3E85-452E-BF8C-7F25E9BB2B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC009D76-3E85-452E-BF8C-7F25E9BB2B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA1F458-883E-4A13-964C-F66F21C0A7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA1F458-883E-4A13-964C-F66F21C0A7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA1F458-883E-4A13-964C-F66F21C0A7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA1F458-883E-4A13-964C-F66F21C0A7FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -782,7 +812,6 @@ Global
 		{10185B0C-564E-4093-862C-45B3844E64EF} = {2A0FF2E0-3B30-4C13-8A09-DD27BB70D02E}
 		{5DDD7DB9-0D4F-4F97-AB61-A50BA7CF9D85} = {2A0FF2E0-3B30-4C13-8A09-DD27BB70D02E}
 		{62CA6924-E1A9-45B3-B784-D409441DE3E2} = {2A0FF2E0-3B30-4C13-8A09-DD27BB70D02E}
-		{24BACE56-A603-48D0-9031-53D0B0E1AED1} = {4B016C21-2E34-4A62-9F0C-9FFD84E213C9}
 		{254441FA-115E-4146-8837-3AAEB21473BD} = {A37EB700-9A03-4FF6-8852-B1B55C3483D8}
 		{FE107E31-CB43-4252-958A-8C05B792EE81} = {A927FEA3-437A-45FB-AC70-ACB3328FDC4F}
 		{F6FF8079-C45E-4C55-A281-D625D01332AD} = {A927FEA3-437A-45FB-AC70-ACB3328FDC4F}
@@ -897,6 +926,12 @@ Global
 		{F52C19EC-116C-4AE2-9269-063E3CB47CD9} = {DD97A879-F2A2-48E6-B70B-2F4D1975B10E}
 		{679C34E8-CD13-4FED-AD3C-95570871D2F6} = {DD97A879-F2A2-48E6-B70B-2F4D1975B10E}
 		{8B24CF18-1739-4894-9983-A674A550FB97} = {DD97A879-F2A2-48E6-B70B-2F4D1975B10E}
+		{1C02AB10-C01C-41E1-A117-9CD498A089BF} = {4B016C21-2E34-4A62-9F0C-9FFD84E213C9}
+		{AC50E35A-3DD2-4532-ABB9-2D15AAA79A2A} = {4B016C21-2E34-4A62-9F0C-9FFD84E213C9}
+		{6EAC2540-4C21-47E6-92CC-64D899534A96} = {4B016C21-2E34-4A62-9F0C-9FFD84E213C9}
+		{8125EADE-939F-4F55-8A87-00245044DD33} = {4B016C21-2E34-4A62-9F0C-9FFD84E213C9}
+		{CC009D76-3E85-452E-BF8C-7F25E9BB2B71} = {4B016C21-2E34-4A62-9F0C-9FFD84E213C9}
+		{2CA1F458-883E-4A13-964C-F66F21C0A7FB} = {4B016C21-2E34-4A62-9F0C-9FFD84E213C9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ACB3053D-4690-4830-AA8C-79DFA2E43C85}
