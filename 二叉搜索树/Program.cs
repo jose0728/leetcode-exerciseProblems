@@ -10,12 +10,12 @@ namespace 二叉搜索树
             Program program = new Program();
             Tree<int> tree = new Tree<int>(10);
 
-            tree.Insert(5);
-            tree.Insert(3);
-            tree.Insert(6);
-            tree.Insert(20);
-            tree.Insert(15);
-            tree.Insert(21);
+            program.Insert(5, tree);
+            program.Insert(3, tree);
+            program.Insert(6, tree);
+            program.Insert(20, tree);
+            program.Insert(15, tree);
+            program.Insert(21, tree);
 
             var a = IsValidBST(tree);
 
@@ -30,6 +30,31 @@ namespace 二叉搜索树
             var f = DeleteNode(tree, 5);
 
             Console.ReadKey();
+        }
+
+        /// <summary>
+        /// 向树中插入数据
+        /// </summary>
+        /// <param name="element">数据的值</param>
+        /// <param name="node">树的根结点</param>
+        /// <returns></returns>
+        public Tree<int> Insert(int element, Tree<int> node)
+        {
+            if (node == null)
+            {
+                return new Tree<int>(element);
+            }
+
+            if (element.CompareTo(node.NodeData) < 0)
+            {
+                node.LeftTree = Insert(element, node.LeftTree);
+            }
+            else if (element.CompareTo(node.NodeData) > 0)
+            {
+                node.RightTree = Insert(element, node.RightTree);
+            }
+
+            return node;
         }
 
         /// <summary>
