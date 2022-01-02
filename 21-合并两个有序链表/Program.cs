@@ -42,6 +42,7 @@ namespace _21_合并两个有序链表
         /// <returns></returns>
         public static ListNode MergeTwoLists(ListNode l1, ListNode l2)
         {
+            Queue 
             ListNode prehead = new ListNode("header", null);
             ListNode prev = prehead;
             ListNode newL1 = l1.next;

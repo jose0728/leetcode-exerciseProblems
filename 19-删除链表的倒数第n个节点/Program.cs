@@ -52,7 +52,24 @@ namespace _19_删除链表的倒数第n个节点
             ListNode ans = dummy.next;
             return ans;
         }
+        public static ListNode RemoveNthFromEnd2(ListNode head, int n)
+        {
+            ListNode dummy = new ListNode("0", head);//哨兵节点
+            ListNode fast = dummy;
+            ListNode slow = dummy;
 
+            while (fast != null)
+            {
+                fast = fast.next;
+                if (n < 1 && fast != null)
+                {
+                    slow = slow.next;
+                }
+                n--;
+            }
+            slow.next = slow.next.next;
+            return dummy.next;
+        }
     }
 
 }

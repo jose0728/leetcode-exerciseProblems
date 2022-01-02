@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31912.275
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "动态规划和递归", "动态规划和递归", "{2A0FF2E0-3B30-4C13-8A09-DD27BB70D02E}"
 EndProject
@@ -311,7 +311,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-盛水最多的容器", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-最长回文子串", "5-最长回文子串\5-最长回文子串.csproj", "{EA9BF91E-78E2-43D1-9752-4BD5FEAE4F9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBTree", "RBTree\RBTree.csproj", "{33A92881-FACE-4A92-8ECE-D96B3B703F98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RBTree", "RBTree\RBTree.csproj", "{33A92881-FACE-4A92-8ECE-D96B3B703F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "栈的压入,弹出序列", "栈的压入,弹出序列\栈的压入,弹出序列.csproj", "{57A92EB5-B06F-40B5-8909-56C084E41467}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -867,6 +869,10 @@ Global
 		{33A92881-FACE-4A92-8ECE-D96B3B703F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33A92881-FACE-4A92-8ECE-D96B3B703F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33A92881-FACE-4A92-8ECE-D96B3B703F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A92EB5-B06F-40B5-8909-56C084E41467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A92EB5-B06F-40B5-8909-56C084E41467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A92EB5-B06F-40B5-8909-56C084E41467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A92EB5-B06F-40B5-8909-56C084E41467}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1009,6 +1015,7 @@ Global
 		{F1150056-B3FB-47D0-A985-80B99B3FD309} = {A37EB700-9A03-4FF6-8852-B1B55C3483D8}
 		{EA9BF91E-78E2-43D1-9752-4BD5FEAE4F9A} = {A927FEA3-437A-45FB-AC70-ACB3328FDC4F}
 		{33A92881-FACE-4A92-8ECE-D96B3B703F98} = {30354CE6-65BD-46CA-9B80-3F2664C13438}
+		{57A92EB5-B06F-40B5-8909-56C084E41467} = {41D59612-CCA2-4755-9A59-93B44E393316}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ACB3053D-4690-4830-AA8C-79DFA2E43C85}
