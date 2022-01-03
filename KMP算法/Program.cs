@@ -6,6 +6,14 @@ using System.Threading.Tasks;
 
 namespace KMP算法
 {
+    /// <summary>
+    /// KMP算法求解什么类型问题
+    /// 字符串匹配。给你两个字符串，寻找其中一个字符串是否包含另一个字符串，如果包含，返回包含的起始位置。
+    /// 如下面两个字符串：
+    /// "bacbababadababacambabacaddababacasdsd";
+    /// "ababaca";
+    /// 
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
@@ -42,6 +50,7 @@ namespace KMP算法
 
         /// <summary>
         /// 获取next数组
+        /// next数组的作用就是，当前位置主串的字符与模式串当前的字符不匹配了，下一步要拿模式串哪个位置的字符与主串进行匹配
         /// </summary>
         /// <param name="t"></param>
         /// <returns></returns>
